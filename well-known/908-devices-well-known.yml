@@ -1,0 +1,111 @@
+generated: '2026-09-05'
+method: probed
+source: >-
+  Direct anonymous HTTPS probes of /.well-known/ paths on every host this record knows —
+  the registrable domain and www, the investor-relations host, and the three hosts of the
+  NIRLAB cloud platform 908 Devices acquired in May 2026 (908devices.com/news/908-devices-acquires-nirlab-ag-expanding-its-narcotics-detection-portfolio/).
+note: >-
+  Every probed path missed. 908devices.com, www.908devices.com, www.nirlab.com, app.nirlab.com
+  and nirstore.nirlab.ch return a real 404 for all five documents. ir.908devices.com answers
+  HTTP 200 with the body "Invalid key" for EVERY /.well-known/ path — a catch-all soft-200 from
+  the hosted investor-relations platform, not a served document; it is recorded as a miss.
+  No WellKnown or SecurityTxt pointer is emitted in apis.yml, because nothing here was served.
+hosts:
+- host: 908devices.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /.well-known/agent.json
+    status: 404
+- host: www.908devices.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+- host: ir.908devices.com
+  note: >-
+    Soft-200 catch-all. Every path returns HTTP 200 with the six-character body "Invalid key"
+    and Content-Type text/html. Treated as absent per the pipeline rule that a 200 returning an
+    HTML/shell body is not a document.
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    served: false
+    body: Invalid key
+  - path: /.well-known/openid-configuration
+    status: 200
+    served: false
+    body: Invalid key
+  - path: /.well-known/oauth-authorization-server
+    status: 200
+    served: false
+    body: Invalid key
+  - path: /.well-known/api-catalog
+    status: 200
+    served: false
+    body: Invalid key
+  - path: /.well-known/ai-plugin.json
+    status: 200
+    served: false
+    body: Invalid key
+- host: www.nirlab.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /.well-known/agent.json
+    status: 404
+- host: app.nirlab.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /.well-known/agent.json
+    status: 404
+- host: nirstore.nirlab.ch
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404

@@ -1,0 +1,27 @@
+generated: '2026-09-05'
+method: searched
+source: https://908devices.com/how-to-buy/
+docs: https://908devices.com/contact/
+plan_count: 0
+note: >-
+  908 Devices publishes no price list, plan tiers or quota table anywhere on 908devices.com.
+  Its handheld instruments (MX908, VipIR, XplorIR, ProtectIR, InterceptIR, NIRLab) are sold
+  through a quote motion: /how-to-buy/ routes buyers to authorised distributors, government
+  contract vehicles and a "Contact Us" form rather than to a pricing page, and there is no
+  /pricing or /plans path in the site's page-sitemap.xml. The NIRLAB platform 908 Devices
+  acquired in May 2026 is described in the acquisition release as an "integrated hardware and
+  cloud subscription platform", but no subscription tier, price or included quota is published;
+  the NIRSTORE storefront at nirstore.nirlab.ch is login-gated. plan_count is 0 as a measured
+  fact, not as a gap in this pass.
+plans: []
+evidence:
+- url: https://908devices.com/how-to-buy/
+  status: 200
+- url: https://908devices.com/contact/
+  status: 200
+- url: https://908devices.com/page-sitemap.xml
+  status: 200
+  finding: no /pricing or /plans URL present
+- url: https://nirstore.nirlab.ch/
+  status: 200
+  finding: redirects to a login form

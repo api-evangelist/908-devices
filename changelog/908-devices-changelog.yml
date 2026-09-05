@@ -1,0 +1,39 @@
+generated: '2026-09-05'
+method: searched
+source: https://908devices.com/blog/
+scope: >-
+  DEVICE SOFTWARE, NOT AN API. 908 Devices publishes no API changelog because it publishes no
+  API. It does publish a dated release history for MX908 handheld instrument software, announced
+  as blog posts. Each release is a target-library expansion — new drug, explosive or hazmat
+  targets added to the on-device identification list — rather than an interface change, so
+  nothing here breaks or adds a contract.
+scheme: semver-minor
+current_version: '3.6'
+entries:
+- version: '3.6'
+  date: '2026-02-05'
+  url: https://908devices.com/blog/mx908-software-release-v3-6/
+  breaking: false
+  additions: >-
+    Five additional drug targets added to the MX908 target list, including three synthetic
+    cannabinoids, a synthetic cathinone and a nitazene.
+- version: '3.5'
+  date: '2024-04-02'
+  url: https://908devices.com/blog/mx908-software-release-v3-5/
+  breaking: false
+  additions: >-
+    Five additional drug targets added to the MX908 target list, including three synthetic
+    cannabinoids, a synthetic cathinone and a nitazene.
+- version: '3.4'
+  date: '2023-02-08'
+  url: https://908devices.com/blog/announcing-the-3-4-software-update-new-target-release/
+  breaking: false
+  additions: Three new drug targets and one new explosives target.
+- version: '3.3'
+  date: '2022-07-18'
+  url: https://908devices.com/blog/mx908-3-3-software-update/
+  breaking: false
+  additions: Three new targets — a fentanyl analog, a cannabinoid and a precursor.
+note: >-
+  Dates are the published dates recorded for each post in the site's own llms.txt
+  (https://908devices.com/llms.txt), saved verbatim to llms/908-devices-llms.txt.

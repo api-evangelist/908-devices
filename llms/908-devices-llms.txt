@@ -1,0 +1,2517 @@
+﻿# 908 Devices
+
+> info Upcoming Webinar: Drug Detection from Street to Dashboard Register Simple Smart Speedy CHEMICAL ANALYSIS DEVICES Analysis at theSpeed of Life Our next-generation handheld chemical analysis devices rapidly detect, identify,
+
+
+## Pages
+
+- [Accessibility Statement](https://908devices.com/accessibility-statement/): Read 908 Devices' Privacy Policy to understand how we collect, use, and protect your personal information.
+- [Threat Assist Database](https://908devices.com/threatassist-database/): Threat Assist Database Access Detailed Information on Thousands of Chemicals A key advantage of our portable FTIR platforms is our...
+- [Team Leader Software](https://908devices.com/teamleader-software/): Team Leader App Application for FTIR Device Data Our Team Leader mobile app lets you view our FTIR device information...
+- [In the Media](https://908devices.com/in-the-media/): In the Media Browse the latest news articles and videos featuring 908 Devices products. Posted July 30, 2026 A Technological...
+- [Patents](https://908devices.com/patents/): Patents held by 908 Devices Patents The products listed on www. 908devices. com, including MX908, include one or more features...
+- [MX Remote App](https://908devices.com/mx908-remote-app/): The MX908 Remote App pairs with your MX908 for seamless Bluetooth connectivity. Export real-time analysis results & access additional support...
+- [Careers](https://908devices.com/careers/): Explore career opportunities at 908 Devices! Join our passionate team working on cutting-edge technologies in mass spec and field detection.
+- [Terms of Use](https://908devices.com/terms-of-use/): 908 DEVICES INC. Terms of Use Effective: February 22, 2022 1. Acceptance of the Terms and Conditions. 1. 1. 908...
+- [Privacy Policy](https://908devices.com/privacy-policy/): Read 908 Devices' Privacy Policy to understand how we collect, use, and protect your personal information.
+- [MX908 Gap Analysis Tool](https://908devices.com/gap-analysis-tool/): Try the Gap Analysis Tool to compare technologies in narcotics, explosives, and hazardous materials for chemical detection and identification.
+- [How to Buy](https://908devices.com/how-to-buy/): Find authorized partners and regional distributors to buy our products and inquire about our innovative solutions in mass spectrometry and...
+- [About](https://908devices.com/about/): 908 Devices is revolutionizing chemical analysis with our simple handheld devices for forensics and field detection.
+- [Thank You](https://908devices.com/thank-you/): Thank you for contacting us. We will be in touch with you shortly. Back to Home
+- [Contact](https://908devices.com/contact/): Contact 908 Devices for sales inquiries, service &amp; support, or general questions. Reach out to learn about innovative solutions in...
+- [Team](https://908devices.com/team/): Meet the innovative minds behind 908 Devices. Our team is passionate about creating cutting-edge solutions in forensics applications.
+- [Technology](https://908devices.com/technology/): Technology Analysis At the Speed of Life Our point-of-need handheld devices leverage key analytical technologies and analytics that are configured...
+- [Home](https://908devices.com/): info Upcoming Webinar: Drug Detection from Street to Dashboard Register CHEMICAL ANALYSIS DEVICES Analysis at theSpeed of Life Our next-generation...
+
+
+## Blog
+
+- [The Quattrone Study: How Drug Field Tests Send Innocent People to Jail](https://908devices.com/blog/the-quattrone-study-how-drug-field-tests-send-innocent-people-to-jail/): The Quattrone study reveals that colorimetric drug tests cause 30,000 wrongful U. S. arrests annually due to high false-positive rates....
+- [The Paper Problem: Why K2/Spice Is Keeping Corrections Staff Up at Night](https://908devices.com/blog/why-k2-spice-is-keeping-corrections-staff-up-at-night/): There has been a significant rise in synthetic cannabinoids, known as K2/spice, being smuggled into prisons. Learn how MX908 provides...
+- [COTS, Mission-Specific Modification, and the New Defense Buying Mindset](https://908devices.com/blog/cots-cots-mod-and-the-new-defense-buying-mindset/): Learn why faster fielding now favors commercially proven chemical detection capability and why 908 Devices stands alone for real-time identification...
+- [Colorado HB 26-1020: What It Means for Every Law Enforcement Agency](https://908devices.com/blog/colorado-hb-26-1020-what-it-means-for-every-law-enforcement-agency/): A new Colorado law bans custodial drug arrests based solely on colorimetric field tests due to high false-positive rates. Learn...
+- [Inside the Walls, Control Matters: Why Sheriffs Need Better Tools to Stop Narcotics Before They Become a Jail Overdose](https://908devices.com/blog/inside-the-walls-control-matters-why-sheriffs-need-better-tools-to-stop-narcotics-before-they-become-a-jail-overdose/): Learn about the growing challenge sheriff&#039;s offices face as synthetic narcotics and other dangerous substances infiltrate jail environments.
+- [Your Gas Meter Didn’t Get Replaced—It Got Smarter](https://908devices.com/blog/your-gas-meter-didnt-get-replaced-it-got-smarter/): Pairing a PID and multi-gas meter with XplorIR turns unknown readings into identified chemical hazards for smarter, safer hazmat response.
+- [Trending: A Surge in Drug-Soaked Papers Appearing in Correctional Facilities ](https://908devices.com/blog/drug-soaked-papers-appearing-in-correctional-facilities/): Learn how MX908 identifies trace-levels of synthetic cannabinoids from &quot;drug-soaked papers&quot; being smuggled into correctional facilities.
+- [The Adaptive Cycle of Synthetic Opioids: Understanding the Orphine Threat and the Future of Field Intelligence ](https://908devices.com/blog/understanding-the-orphine-threat-and-the-future-of-field-intelligence/): Orphines represent a new synthetic opioid threat, requiring advanced field intelligence and MX908 identification.
+- [Beyond Critical Infrastructure](https://908devices.com/blog/beyond-critical-infrastructure/): Learn why DHS funding is shifting to focus on public events, requiring applicants to focus their grant strategy on protecting...
+- [How Advanced Detection Technologies Are Transforming Customs and Border Inspections](https://908devices.com/blog/how-advanced-detection-technologies-are-transforming-customs-and-border-inspections/): Discover how advanced customs inspection technology improves narcotics detection, chemical identification, and trade compliance at ports of entry.
+- [MX908 Software Release v3.6](https://908devices.com/blog/mx908-software-release-v3-6/): MX908 latest software release offers five additional drug targets for the MX908 target list. This includes the addition of three...
+- [Federal Narcotics Interdiction in the Age of Fentanyl](https://908devices.com/blog/federal-narcotics-interdiction-in-the-age-of-fentanyl/): Illicit fentanyl is now a WMD threat. Learn how MX908 provides trace-level identification to ensure safety and faster narcotics interdiction...
+- [Operation Black Swan Breaks a 9,000-Mile Drug Trafficking Pipeline ](https://908devices.com/blog/operation-black-swan-breaks-a-9000-mile-drug-trafficking-pipeline/): Learn how Chilean authorities utilized the MX908 trace chemical detector during 'Operation Black Swan', which dismantled a transnational drug pipeline.
+- [From Emergence to Response: Why Rapid Field Detection is Now a Global Priority](https://908devices.com/blog/from-emergence-to-response-why-rapid-field-detection-is-now-a-global-priority/): Learn how MX908 and VipIR provide rapid field detection of synthetic opioids, enabling real-time intelligence to combat the global drug...
+- [When Fentanyl Is Treated as a WMD, “Trace” Detection Takes on New Meaning](https://908devices.com/blog/when-fentanyl-is-treated-as-a-wmd-trace-detection-takes-on-new-meaning/): Treating fentanyl as a WMD shifts focus to trace detection, requiring tools capable of identifying nanogram-levels of chemical threats.
+- [The Shadow Drug: Nitazenes](https://908devices.com/blog/the-shadow-drug-nitazenes/): Learn how MX908 detects and identifies nitazene analogues, synthetic opioids 40x stronger than fentanyl that are driving the opioid crisis.
+- [The Unseen Dangers of Synthetic Materials and EV Fires: Protecting Firefighters from Airborne Hazards](https://908devices.com/blog/the-unseen-dangers-of-synthetic-materials-and-ev-fires-protecting-firefighters-from-airborne-hazards/): Fires from modern synthetic materials and EVs pose severe airborne hazards. Learn how XplorIR delivers real-time detection, identification, and quantification...
+- [Emerging Drug Alert: Purple Fentanyl](https://908devices.com/blog/emerging-drug-alert-purple-fentanyl/): Purple fentanyl's unpredictable potency makes it extremely dangerous; see how MX908 reduces exposure risk.
+- [Momentum in the Fight Against Fentanyl: What New Federal Efforts Mean for Combating the Opioid Crisis](https://908devices.com/blog/what-new-federal-efforts-mean-for-combating-the-opioid-crisis/): New federal laws—HALT, STOP, and DETECT Acts—boost the fight against opioids with enhanced detection, enforcement, and border security.
+- [Reliable Drug Detection and Identification in Real Time](https://908devices.com/blog/reliable-drug-detection/): Reliable drug detection is more streamlined than ever, with the MX908 delivering results on-site, in seconds.
+- [Op-Ed: Science on the Stand: How Smart Spectral Processing Transforms Chemical Identification at the Border](https://908devices.com/blog/how-smart-spectral-processing-transforms-chemical-identification-at-the-border/): Learn how the VipIR's Smart Spectral Processing algorithm uses Raman and FTIR technologies for accurate, fast chemical identification at the...
+- [Nerve Agent Detector: MX908 Handheld Mass Spectrometer ](https://908devices.com/blog/nerve-agent-detector/): Nerve agent detectors are essential tools in identifying and neutralizing the potentially catastrophic effects of nerve agents.
+- [Gray Death: What Every Officer Needs to Know About This Lethal Drug](https://908devices.com/blog/gray-death-what-every-officer-needs-to-know-about-this-lethal-drug/): Discover what law enforcement officers need to know about Gray Death—a lethal mix of opioids like fentanyl and carfentanil—and how...
+- [Medetomidine aka ‘Rhino Tranq’: What to Know About This Emerging Illicit Drug  ](https://908devices.com/blog/medetomidine-aka-rhino-tranq-what-to-know-about-this-emerging-illicit-drug/): Medetomidine, or "rhino tranq", is a potent veterinary sedative being used as a dangerous cutting agent with fentanyl, leading to...
+- [What the "One Big Beautiful Bill" Means for First Responders and National Security](https://908devices.com/blog/what-the-one-big-beautiful-bill-means-for-first-responders-and-national-security/): The "One Big Beautiful Bill" (OBBB) boosts national security by including funding for the procurement of modern detection tools for...
+- [Securing the Future of Public Events: How 908 Devices Helps Meet the Moment](https://908devices.com/blog/securing-the-future-of-public-events-how-908-devices-helps-meet-the-moment/): Learn how 908 Devices boosts public event safety with advanced solutions for area monitoring, suspicious package screening, and more.
+- [Operation FREE: Working Together to Combat the Fentanyl Crisis](https://908devices.com/blog/operation-free-working-together-to-combat-the-fentanyl-crisis/): Operation FREE fights the fentanyl crisis through interagency collaboration, training law enforcement, and using advanced tech like the MX908 for...
+- [A Note from our CEO: Introducing 908 Devices 2.0](https://908devices.com/blog/a-note-from-our-ceo/): Discover 908 Devices 2. 0 — a bold transformation focused on handheld chemical analysis for vital health, safety and defense...
+- [XplorIR Speeds Up Hazmat Unit Decision-Making](https://908devices.com/blog/how-xplorir-speeds-up-hazmat-unit-decision-making/): XplorIR identifies and quantifies chemicals in real-time, empowering hazmat units with critical data to make fast, safe, and effective decisions.
+- [Legacy of Spectroscopy for Public Safety](https://908devices.com/blog/legacy-of-spectroscopy-for-public-safety/): After 9/11, learn how handheld, field-based chemical identification devices utilizing lab-grade analytical technologies became crucial tools for protecting first responders...
+- [Sharpen Your Skills: Practical Workshops for HazMat and Law Enforcement Teams](https://908devices.com/blog/practical-workshops-for-law-enforcement-and-hazmat-teams/): Enhance your training experience through a law enforcement or hazmat workshop led by 908 Devices, where attendees learn through real-world...
+- [2025 Office of National Drug Control Policy Framework: A Guiding Force to Stop Illicit Drugs](https://908devices.com/blog/2025-office-of-national-drug-control-policy-framework-a-guiding-force-to-stop-illicit-drugs/): The Office of National Drug Control Policy has set its priorities, which includes detection technologies to combat illicit drugs like...
+- [Unlocking Funding: Key Steps for Law Enforcement and Fire/Hazmat Teams to Secure Grant Assistance](https://908devices.com/blog/unlocking-funding-key-steps-for-law-enforcement-and-fire-hazmat-teams-to-secure-grant-assistance/): Learn from 908 Devices how to navigate complex grants and secure funding for your current mission-critical priorities.
+- [Nitrous Oxide Abuse and the Role of Advanced Detection Technology](https://908devices.com/blog/nitrous-oxide-abuse-and-the-role-of-advanced-detection-technology/): Nitrous oxide abuse is dangerously rising in popularity. Learn how XplorIR provides rapid identification of N₂O for emergency responders.
+- [Understanding How an Explosive Detection System Can Be Used In Real-Time](https://908devices.com/blog/explosive-detection-system/): Learn how rapid explosive detection systems are a testament to the power of technology in enhancing public safety.
+- [Border Security, the Locard Exchange Principle, and Trace Detection](https://908devices.com/blog/border-security-the-locard-exchange-principle-and-trace-detection/): Explore how border security uses the advanced technologies of MX908, ThreatID, and ProtectIR to identify drugs from trace to bulk...
+- [BTMPS: A Growing Concern in Illicit Fentanyl Adulteration](https://908devices.com/blog/btmps-a-growing-concern-in-illicit-fentanyl-adulteration/): Fentanyl emerges more lethal through the latest trend of mixing the drug with industrial chemical, BTMPS. Learn about the latest...
+- [The Nitazene Crisis: By the Numbers](https://908devices.com/blog/the-nitazene-crisis-by-the-numbers/): New data reveals critical gaps in public awareness about nitazenes, a highly potent and addictive class of drugs that are...
+- [The De Minimis Exemption and Illicit Fentanyl Shipments](https://908devices.com/blog/the-de-minimis-exemption-and-illicit-fentanyl-shipments/): A United States customs law provision has inadvertently facilitated fentanyl smuggling into the country. Discover how the MX908 is a...
+- [LA Wildfires: Airborne Chemicals Can Threaten Air Quality](https://908devices.com/blog/la-wildfires-airborne-chemicals-can-threaten-air-quality/): Learn how XplorIR rapidly identifies toxic airborne chemicals that can threaten the health of first responders and the public.
+- [Fentanyl Analog Classifier: How the MX908 Keeps Pace with Fentanyl Analogs](https://908devices.com/blog/fentanyl-analog-classifier-how-the-mx908-keeps-pace-with-fentanyl-analogs/): Learn how MX908 detects over 2,000 fentanyl analogs, while staying ahead of the evolving synthetic opioid epidemic.
+- [Nitazenes: Understanding The Next Threat in the Opioid Crisis](https://908devices.com/blog/nitazenes-understanding-the-next-threat-in-the-opioid-crisis/): Extremely potent synthetic opioids called Nitazenes are a serious new threat in the opioid crisis. Learn how advanced detection technologies...
+- [From National Conventions to Election Mail Screening, How Our Customers Mitigate Public Safety Threats](https://908devices.com/blog/from-national-conventions-to-election-mail-screening-how-our-customers-mitigate-public-safety-threats/): 908 Devices provides advanced chemical detection technology to enhance public safety at high-risk events. Learn how our solutions are used...
+- [Accurate and Actionable Handheld Gas Detection](https://908devices.com/blog/handheld-gas-detection/): Learn more about handheld gas detection, and how our advanced technology can identify and quantify thousands of unknown chemicals and...
+- [The Evolution and Innovation of FTIR: A Q&amp;A with FTIR Expert Dr. Dave Schiering](https://908devices.com/blog/the-evolution-and-innovation-of-ftir-a-qa-with-ftir-expert-dr-dave-schiering/): As the former managing partner and Chief Technology Officer of RedWave Technology and – following an acquisition -- the current...
+- [Responding to a Meth Lab Explosion: Experience with Advanced Gas Detection Technology](https://908devices.com/blog/responding-to-a-meth-lab-explosion-experience-with-advanced-gas-detection-technology/): Learn about the current challenges in responding to a meth lab explosion and how XplorIR solves this problem through gas...
+- [How a Stolen ThreatID Helped Law Enforcement Bust a Drug Dealer](https://908devices.com/blog/how-a-stolen-threatid-helped-law-enforcement-bust-a-drug-dealer/): Discover how a stolen ThreatID FTIR device unintentionally assisted law enforcement in catching a local drug dealer.
+- [A Day in the Life of a Hazmat Team: Tackling a VOC Incident](https://908devices.com/blog/hazmat-team-tackles-vocs-incident/): A hazmat team used the XplorIR to identify volatile organic compounds (VOCs), ensuring safe reconnaissance and expediting scene resolution.
+- [Importance of Fast Chemical Identification for High Priority Threats](https://908devices.com/blog/chemical-identification/): Identify and analyze chemical threats using a handheld mass spectrometer. Rapid results at your fingertips.
+- [Pink Cocaine: The Truth Behind Tusi and its Dangerous Mixture](https://908devices.com/blog/pink-cocaine-truth-behind-tusi-and-its-dangerous-mixture/): Learn about Tusi, known as "pink cocaine," and see how MX908’s advanced identification methods effectively address this synthetic opioid.
+- [Our Customers Fuel Our Organization – Meet The Team at 908 Devices ](https://908devices.com/blog/customers-fuel-our-organization-meet-the-team/): Our customers fuel our organization to provide technology for mission completion and safety, delivering the best customer experiences.
+- [Demystifying the Opioid Crisis: How much do we really know? ](https://908devices.com/blog/demystifying-the-opioid-crisis/): The opioid crisis has continued to evolve over the years, and limited knowledge of emerging drugs among respondents calls for...
+- [To Catch a Smuggler: Drugs Identified in 3D Printed Animal Figurines](https://908devices.com/blog/drugs-identified-customs-applications/): Customs was warned about the use of 3D printed objects to conceal drugs. With the MX908, they were able to...
+- [Chemical Identification for EOD Applications](https://908devices.com/blog/chemical-identification-eod-applications/): Understanding chemical identification is essential for EOD teams due to the increasing number of chemical threats from explosive devices.
+- [MX908 Software Release v3.5](https://908devices.com/blog/mx908-software-release-v3-5/): MX908 latest software release offers five additional drug targets for the MX908 target list. This includes the addition of three...
+- [To Catch a Smuggler: MX908 and Customs Applications ](https://908devices.com/blog/customs-applications-illegal-drug-smuggling/): Customs strives to enhance security measures as illicit drug trade and illegal drug smuggling traffickers pose significant challenges to law...
+- [Grant Application Process](https://908devices.com/blog/grant-application-process/): Explore the steps and considerations for law enforcement agencies looking to obtain grant funding.
+- [EU DrugDetect](https://908devices.com/blog/eu-drugdetect/): Learn about the EU DrugDetect project, that aims to provide innovative solutions, such as the MX908, to prevent drugs from...
+- [Emerging Drug Trends and Threats: Here’s What We Know](https://908devices.com/blog/emerging-drug-trends/): Staying ahead of dangerous drug trends and threats is crucial. To combat these drug trends and threats effectively, it is...
+- [908 Devices Awarded 2023 Gold ‘ASTORS’ Homeland Security Award from American Security Today (AST)](https://908devices.com/blog/mx908beacon-astors-homeland-security-award/): 908 Devices was awarded the 2023 Gold ‘ASTORS’ Homeland Security Award from American Security Today (AST) for its MX908 Beacon...
+- [Letters with Fentanyl Powder in US Mail](https://908devices.com/blog/fentanyl-powder-in-mail-psa/): Protect yourself by reading these tips before attempting to open suspiciously marked envelopes or packages that may contain white powders.
+- [Why Illegal Marijuana Farming Is Wreaking Havoc on Our Environment ](https://908devices.com/blog/why-illegal-marijuana-farming-is-wreaking-havoc-on-our-environment/): Discover the hidden environmental crisis of illegal marijuana farming. Learn about the ecological damage, toxic pesticides, and public safety risks.
+- [Understanding Public Perception of Xylazine and Synthetic Opioids ](https://908devices.com/blog/understanding-public-perception-of-xylazine-and-synthetic-opioids/): In an attempt to better analyze the public perception of xylazine and synthetic opioids, we surveyed 1,000 U. S. consumers...
+- [MX908 and the Identification of Fentanyl/Xylazine Mixtures](https://908devices.com/blog/mx908-identification-of-fentanyl-xylazine-mixtures/): The MX908 provides coverage of low concentration mixtures of powerful synthetics such as xylazine and 2000+ fentanyl analogs in cutting...
+- [Announcing the 3.4 Software Update New Target Release](https://908devices.com/blog/announcing-the-3-4-software-update-new-target-release/): SW v3. 4 will include three new drug targets and one new explosives target.
+- [Announcing the 3.3 Software Update New Target Release](https://908devices.com/blog/mx908-3-3-software-update/): We just released 3 new targets including a fentanyl analog, cannabinoid and precursor.
+- [New Target Update: Preparing for the Next in Synthetic Opioid Trends, Nitazenes  ](https://908devices.com/blog/new-target-update-preparing-for-the-next-in-synthetic-opioid-trends-nitazenes/): MX908 adds a new synthetic opioid, nitazines, to its drug target list, aiding responders against evolving threats.
+- [One Pill Can Kill: Current and Emerging Drug Threats](https://908devices.com/blog/one-pill-can-kill-current-and-emerging-drug-threats/): 908 Devices equips first responders with tools to identify dangerous drugs, a crucial need given the surge in fentanyl-laced counterfeit...
+- [One Pill Can Kill: MX908 and Counterfeit Pills](https://908devices.com/blog/one-pill-can-kill-mx908-and-counterfeit-pills/): The DEA has issued a public safety alert warning against a sharp increase in counterfeit pill overdoses in the US....
+- [The Impact and Rising Danger of the Opioid Epidemic](https://908devices.com/blog/the-impact-and-rising-dangers-of-the-opioid-epidemic/): The opioid epidemic's current wave is fueled by potent synthetic opioids that are significantly increasing in danger. Learn how the...
+- [New Update: Threat-Focused Targets](https://908devices.com/blog/feature-release-more-of-the-right-targets/): An MX908 target list update has been released, adding critical targets for evolving drug, explosive, and chemical threats.
+- [See the Unseen: Trace Chemical Detection in the Field](https://908devices.com/blog/see-the-unseen-trace-chemical-detection-in-the-field/): The MX908 provides instant trace chemical detection of narcotics in the field, enabling stronger evidence for investigations & warrants.
+- [Beyond Bulk: Trace Detection of Fentanyl in the Field](https://908devices.com/blog/beyond-bulk-trace-detection-of-fentanyl-in-the-field/): The MX908 keeps first responders safe by rapidly identifying unknown substance traces, including fentanyl and synthetic opioids.
+- [The Road to IPO](https://908devices.com/blog/the-road-to-ipo/): Follow 908 Devices' inspiring journey to becoming a public company. Learn about the company's mission to revolutionize mass spec.
+- [Our 908th Customer](https://908devices.com/blog/our-908th-customer/): 908 Devices welcomes the 908th customer. Learn how MX908 is enhancing their capabilities in hazardous chemical threat detection.
+- [Q&A with John Kenneweg – The Changing Threat Landscape](https://908devices.com/blog/qa-john-kenneweg-changing-threat-landscape/): The evolving threat landscape for CBRNE, narcotics, and explosives drives demand for advanced technology for first responders.
+- [R.I.P Delayed Gratification](https://908devices.com/blog/r-i-p-delayed-gratification/): Explore the growing demand for instant access to data and how 908 Devices is transforming mass spectrometry with portable solutions.
+
+
+## News
+
+- [908 Devices to Present at the 32nd Annual Gabelli Aerospace & Defense Symposium](https://908devices.com/news/908-devices-to-present-at-the-32nd-annual-gabelli-aerospace-defense-symposium/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices to Present at the 17th Annual Midwest IDEAS Investor Conference](https://908devices.com/news/908-devices-to-present-at-the-17th-annual-midwest-ideas-investor-conference/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices Reports Second Quarter 2026 Financial Results and Raises Low End of 2026 Revenue Outlook](https://908devices.com/news/908-devices-reports-second-quarter-2026-financial-results-and-raises-low-end-of-2026-revenue-outlook/): Revenue increased 23% compared to prior year Updated full year 2026 outlook reflects 21% to 25% year-over-year growth BURLINGTON, Mass....
+- [908 Devices to Participate in the Canaccord Genuity 46th Annual Growth Conference](https://908devices.com/news/908-devices-to-participate-in-the-canaccord-genuity-46th-annual-growth-conference/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices to Report Second Quarter 2026 Financial Results on August 11, 2026](https://908devices.com/news/908-devices-to-report-second-quarter-2026-financial-results-on-august-11-2026/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices Announces Inducement Grants Under NASDAQ Listing Rule 5635(c)(4)](https://908devices.com/news/908-devices-announces-inducement-grants-under-nasdaq-listing-rule-5635c4/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices to Present at the 16th Annual East Coast IDEAS Investor Conference](https://908devices.com/news/908-devices-to-present-at-the-16th-annual-east-coast-ideas-investor-conference/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices Reports First Quarter 2026 Financial Results and Raises 2026 Revenue Outlook](https://908devices.com/news/908-devices-reports-first-quarter-2026-financial-results-and-raises-2026-revenue-outlook/): Revenue increased 14% compared to prior year, growth in both Mass Spec and FTIR Acquired NIRLAB AG, expanding narcotics identification...
+- [908 Devices Acquires NIRLAB AG, Expanding Its Narcotics Detection Portfolio](https://908devices.com/news/908-devices-acquires-nirlab-ag-expanding-its-narcotics-detection-portfolio/): Strategic acquisition adds integrated hardware and cloud subscription platform powered by NIR spectroscopy BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc....
+- [908 Devices to Report First Quarter 2026 Financial Results on May 6, 2026](https://908devices.com/news/908-devices-to-report-first-quarter-2026-financial-results-on-may-6-2026/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices Appoints Kola Otitoju as Chief Business &amp; Strategy Officer and Announces an Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)](https://908devices.com/news/908-devices-appoints-kola-otitoju-as-chief-business-strategy-officer-and-announces-an-inducement-grant-under-nasdaq-listing-rule-5635c4/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld devices for chemical analysis, announces the...
+- [908 Devices to Present at the Sidoti Small Cap Conference](https://908devices.com/news/908-devices-to-present-at-the-sidoti-small-cap-conference/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices Reports Fourth Quarter and Full Year 2025 Financial Results and Provides 2026 Revenue Outlook](https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2025-financial-results-and-provides-2026-revenue-outlook/): Fourth quarter 2025 revenue increased 21% compared to prior year Achieved positive Adjusted EBITDA in the fourth quarter BURLINGTON, Mass....
+- [908 Devices to Participate in Investor Conferences in March](https://908devices.com/news/908-devices-to-participate-in-investor-conferences-in-march/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices to Report Fourth Quarter and Full Year 2025 Financial Results on March 3, 2026](https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2025-financial-results-on-march-3-2026/): BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis...
+- [908 Devices Enhances MX908 Usability and Adds New Drug Targets](https://908devices.com/news/908-devices-enhances-mx908-usability-and-adds-new-drug-targets/): New mission mode provides simpler and more intuitive sampling of hazardous vapors BURLINGTON, Mass. –(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq:...
+- [908 Devices Announces Strong Preliminary Financial Results for Fourth Quarter and Full Year 2025](https://908devices.com/news/908-devices-announces-strong-preliminary-financial-results-for-fourth-quarter-and-full-year-2025/): Preliminary full year 2025 revenue of approximately $56 million, representing ~17% growth year-over-year Achieved positive Adjusted EBITDA goal in the...
+- [908 Devices Reports Third Quarter 2025 Financial Results and Reiterates 2025 Revenue Outlook](https://908devices.com/news/908-devices-reports-third-quarter-2025-financial-results-and-reiterates-2025-revenue-outlook/): Year-to-date revenue increased 16% while Adjusted EBITDA loss improves 53% quarter over quarter BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS),...
+- [908 Devices to Participate in Upcoming Investor Conferences](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-7/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis tools for...
+- [908 Devices to Participate in Upcoming Investor Conferences - November 2025](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-nov-2025/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis tools for...
+- [United States Coast Guard Purchases 908 Devices’ Handheld Mass Spec Devices for Chemical Threat Identification](https://908devices.com/news/united-states-coast-guard-purchases-908-devices-handheld-mass-spec-devices-for-chemical-threat-identification/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld devices for chemical analysis, announces that the United...
+- [908 Devices to Report Third Quarter 2025 Financial Results on November 10, 2025](https://908devices.com/news/908-devices-to-report-third-quarter-2025-financial-results-on-november-10-2025/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis tools for...
+- [United States Marine Corps Purchases 908 Devices’ XplorIR Gas Identification Devices](https://908devices.com/news/united-states-marine-corps-purchases-908-devices-xplorir-gas-identification-devices/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld devices for chemical analysis, announces that the United...
+- [908 Devices Reports Second Quarter 2025 Financial Results and Raises 2025 Revenue Outlook](https://908devices.com/news/908-devices-reports-second-quarter-2025-financial-results-and-raises-2025-revenue-outlook/): Revenue from continuing operations grew 14% compared to prior year BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap...
+- [908 Devices Appoints Dr. Brandi Vann, former U.S. Principal Deputy Assistant Secretary for Nuclear, Chemical, and Biological Defense, to its Board of Directors](https://908devices.com/news/908-devices-appoints-dr-brandi-vann-former-u-s-principal-deputy-assistant-secretary-for-nuclear-chemical-and-biological-defense-to-its-board-of-directors/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld devices for chemical analysis, announces that it has...
+- [908 Devices to Participate in the Canaccord Genuity 45th Annual Growth Conference](https://908devices.com/news/908-devices-to-participate-in-the-canaccord-genuity-45th-annual-growth-conference/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis tools for...
+- [908 Devices to Report Second Quarter 2025 Financial Results on August 5, 2025](https://908devices.com/news/908-devices-to-report-second-quarter-2025-financial-results-on-august-5-2025/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis tools for...
+- [908 Devices Launches VipIR, a 3-in-1 Handheld Analyzer for Field-Based Chemical Identification of Unknown Bulk Substances](https://908devices.com/news/908-devices-launches-vipir-a-3-in-1-handheld-analyzer-for-field-based-chemical-identification-of-unknown-bulk-substances/): Smart Spectral Processing seamlessly integrates FTIR and Raman technologies into a single, intuitive workflow BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq:...
+- [908 Devices Appoints Christopher D. Brown to its Board of Directors](https://908devices.com/news/908-devices-appoints-christopher-d-brown-to-its-board-of-directors/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld devices for chemical analysis, announces that it has...
+- [Metropolitan Washington Council of Governments Adds 908 Devices’ XplorIR to Its Hazardous Materials Response Toolkit](https://908devices.com/news/metropolitan-washington-council-of-governments-adds-908-devices-xplorir-to-its-hazardous-materials-response-toolkit/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld devices for chemical analysis, announces that the Metropolitan...
+- [Romanian Customs Authority Adopts 908 Devices’ MX908 for Border Security Operations](https://908devices.com/news/romanian-customs-authority-adopts-908-devices-mx908-for-border-security-operations/): The handheld mass spectrometers are now in active use for trace detection and identification of drugs and explosives for customs...
+- [908 Devices to Participate in the William Blair 45th Annual Growth Stock Conference](https://908devices.com/news/908-devices-to-participate-in-the-william-blair-45th-annual-growth-stock-conference/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a core small-cap growth company focused on purpose-built handheld chemical analysis tools for...
+- [908 Devices Reports First Quarter 2025 Financial Results and Reiterates 2025 Revenue Outlook](https://908devices.com/news/908-devices-reports-first-quarter-2025-financial-results-and-reiterates-2025-revenue-outlook/): Revenue from continuing operations grew 59% compared to prior year, driven by an increase in product and service revenue BOSTON–(BUSINESS...
+- [908 Devices Equips rescEU Disaster Preparedness Reserve with Advanced Chemical Detection](https://908devices.com/news/908-devices-equips-resceu-disaster-preparedness-reserve-with-advanced-chemical-detection/): The company’s handheld devices are incorporated in strategic CBRN stockpiles BOSTON–(BUSINESS WIRE)–908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built...
+- [908 Devices Receives $2M Order from the Texas Department of Public Safety for Drug Detection and Mitigation](https://908devices.com/news/908-devices-receives-2m-order-from-the-texas-department-of-public-safety-for-drug-detection-and-mitigation/): Multiple handheld MX908 devices will be deployed to detect, identify and mitigate illicit drugs like fentanyl, protecting communities amid the...
+- [908 Devices Announces Preliminary First Quarter 2025 Financial Results](https://908devices.com/news/908-devices-announces-preliminary-first-quarter-2025-financial-results/): 908 Devices reports preliminary first-quarter 2025 revenue of at least $11.5 million, marking a 55% year-over-year increase.
+- [Repligen Purchases Bioprocessing Analytics Portfolio from 908 Devices](https://908devices.com/news/repligen-purchases-bioprocessing-analytics-portfolio-from-908-devices/): Repligen Corporation has acquired 908 Devices' desktop bioprocessing portfolio, enhancing its process analytical technology (PAT) offerings.
+- [908 Devices Announces Strategic Transformation and Reports Fourth Quarter and Full Year 2024 Financial Results](https://908devices.com/news/908-devices-announces-strategic-transformation-and-reports-fourth-quarter-and-full-year-2024-financial-results/): 908 Devices announces a strategic transformation and strong 2024 financials, including a 19% revenue increase and divestiture of desktop assets.
+- [908 Devices to Report Fourth Quarter and Full Year 2024 Financial Results on March 4, 2025](https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2024-financial-results-on-march-4-2025/): 908 Devices will report its fourth quarter and full-year 2024 financial results on March 4, 2025, before market open.
+- [908 Devices to Participate in Upcoming Investor Conferences - March 2025](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-march-2025/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical analysis, today announced...
+- [908 Devices Announces Preliminary Fourth Quarter and Full Year 2024 Financial Results](https://908devices.com/news/908-devices-announces-preliminary-fourth-quarter-and-full-year-2024-financial-results/): See preliminary unaudited financial results for Q4 and full-year 2024, highlighting 31% year-over-year revenue growth in Q4 and a 19% increase for the year.
+- [Getinge and 908 Devices Partner to Enhance Bioreactor Capabilities for Continuous Monitoring of Key Cell Culture Parameters](https://908devices.com/news/getinge-and-908-devices-partner-to-enhance-bioreactor-capabilities-for-continuous-monitoring-of-key-cell-culture-parameters/): 908 Devices and Getinge have partnered to integrate MAVEN with Getinge’s bioreactors, enabling real-time monitoring of glucose and lactate.
+- [908 Devices Reports Third Quarter 2024 Financial Results and Updates 2024 Revenue Outlook](https://908devices.com/news/908-devices-reports-third-quarter-2024-financial-results-and-updates-2024-revenue-outlook/): 908 Devices reports Q3 2024 revenue of $16.8 million, a 17% year-over-year increase, driven by handheld product sales.
+- [908 Devices to Participate in Upcoming Investor Conferences - November 2024](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-8/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical analysis, today announced...
+- [908 Devices to Report Third Quarter 2024 Financial Results on November 12, 2024](https://908devices.com/news/908-devices-to-report-third-quarter-2024-financial-results-on-november-12-2024/): 908 Devices will report third-quarter 2024 financial results on November 12, 2024, before market open.
+- [908 Devices to Participate in Craig-Hallum Bioprocessing Conference](https://908devices.com/news/908-devices-to-participate-in-craig-hallum-bioprocessing-conference/): 908 Devices will participate in the virtual Craig-Hallum Bioprocessing Conference on September 19, 2024.
+- [908 Devices Reports Second Quarter 2024 Financial Results and Reiterates 2024 Revenue Outlook](https://908devices.com/news/908-devices-reports-second-quarter-2024-financial-results-and-reiterates-2024-revenue-outlook/): Revenue increases 16% compared to prior year, driven by newly acquired handheld products BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS),...
+- [908 Devices to Participate in Canaccord Genuity 44th Annual Growth Conference](https://908devices.com/news/908-devices-to-participate-in-canaccord-genuity-44th-annual-growth-conference/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical analysis, today announced...
+- [908 Devices to Report Second Quarter 2024 Financial Results on August 6, 2024](https://908devices.com/news/908-devices-to-report-second-quarter-2024-financial-results-on-august-6-2024/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of handheld and desktop devices for chemical analysis, today announced it...
+- [908 Devices Appoints Michele M. Leonhart, Former Administrator of the United States Drug Enforcement Administration (DEA), to Its Board of Directors](https://908devices.com/news/908-devices-appoints-michele-m-leonhart-former-administrator-of-the-united-states-drug-enforcement-administration-dea-to-its-board-of-directors/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical analysis, has appointed...
+- [908 Devices Enhances XplorIR Portable Analyzer to Simultaneously Identify and Quantify Hazardous Gases and Vapors](https://908devices.com/news/908-devices-enhances-xplorir-portable-analyzer-to-simultaneously-identify-and-quantify-hazardous-gases-and-vapors/): Updated technology enables first responders to identify and quantify approximately 5,000 substances in mere seconds for a swift and definitive...
+- [908 Devices to Participate in Upcoming Investor Conferences](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-may-2024/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical and biochemical analysis,...
+- [908 Devices Reports First Quarter 2024 Financial Results and Updates 2024 Revenue Outlook](https://908devices.com/news/908-devices-reports-first-quarter-2024-financial-results-and-updates-2024-revenue-outlook/): First quarter 2024 product and service revenue increased 8% compared to prior year, driven by a 20% increase in handheld...
+- [908 Devices Acquires RedWave Technology, Expanding its Forensics Product Offering](https://908devices.com/news/908-devices-acquires-redwave-technology-expanding-its-forensics-product-offering/): Adds optical spectroscopy to the company’s technology platform for point-of-need applications BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer...
+- [908 Devices to Report First Quarter 2024 Financial Results on April 30, 2024](https://908devices.com/news/908-devices-to-report-first-quarter-2024-financial-results-on-april-30-2024/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of handheld and desktop devices for chemical and biochemical analysis, today...
+- [908 Devices Trace Chemical Identification Technology Adopted by European Agencies](https://908devices.com/news/908-devices-trace-chemical-identification-technology-adopted-by-european-agencies/): Fostering Relationships with the NATO Support and Procurement Agency and the DrugDetect EU project, 908 Devices’ MX908 Deployed Across Europe...
+- [908 Devices Reports Fourth Quarter and Full Year 2023 Financial Results and Provides 2024 Revenue Outlook](https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2023-financial-results-and-provides-2024-revenue-outlook/): Fourth quarter 2023 revenue increased 23% compared to prior year, driven by handheld revenue increasing 57% BOSTON--(BUSINESS WIRE)-- 908 Devices Inc.
+- [908 Devices and Cellares Collaborate to Integrate In-line Monitoring of Bioprocess Parameters into the Cell Shuttle, Cellares’ Fully Integrated Cell Therapy Manufacturing Platform](https://908devices.com/news/908-devices-cellares-integrate-in-line-monitoring-of-bioprocess-parameters/): 908 Devices and Cellares have partnered to integrate in-line monitoring of bioprocess parameters into Cellares’ Cell Shuttle platform.
+- [908 Devices to Participate in Upcoming Investor Conferences - March 2024](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-6/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical and biochemical analysis,...
+- [908 Devices to Report Fourth Quarter and Full Year 2023 Financial Results on March 5, 2024](https://908devices.com/news/908-devices-announces-fourth-quarter-full-year-2023-financial-results/): BOSTON--(BUSINESS WIRE)-- 908 Devices Inc. (Nasdaq: MASS), a pioneer of handheld and desktop devices for chemical and biochemical analysis, today
+- [908 Devices Announces MX908 Integration Capabilities](https://908devices.com/news/908-devices-announces-mx908-integration-capabilities/): 908 Devices Announces MX908 Integration Capabilities
+- [908 Devices Reports Third Quarter 2023 Financial Results and Narrows 2023 Revenue Outlook](https://908devices.com/news/908-devices-reports-third-quarter-2023-financial-results-and-narrows-2023-revenue-outlook/): BOSTON--(BUSINESS WIRE)-- 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical and biochemical analysis,
+- [908 Devices and Terumo Blood and Cell Technologies Collaborate to Add On-line Analytics to Quantum Flex Cell Expansion System](https://908devices.com/news/908-devices-and-terumo-blood-and-cell-technologies-collaborate-to-add-on-line-analytics-to-quantum-flex-cell-expansion-system/): Automation combined with on-line monitoring during the cell expansion step can bring cell therapy manufacturing efficiencies and enable increased patient
+- [908 Devices to Participate in Upcoming Investor Conferences - November 2023](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-5/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical and biochemical analysis,...
+- [908 Devices Awarded $10.4M Order from the United States Air Force for its Handheld MX908 Device](https://908devices.com/news/908-devices-awarded-10-4m-order-from-the-united-states-air-force-for-its-handheld-mx908-device/): 908 Devices secures $10.4M order for MX908 devices from US Air Force, enhancing aerosol threat detection at 130+ installations.
+- [908 Devices to Report Third Quarter Financial Results on November 7, 2023](https://908devices.com/news/908-devices-to-report-third-quarter-financial-results-on-november-7-2023/): BOSTON, October 24, 2023 – 908 Devices Inc., (Nasdaq: MASS)&nbsp;a pioneer of handheld and desktop devices for chemical and biochemical analysis, today
+- [908 Devices Launches MAVERICK for Real-Time In-Line Monitoring of Multiple Bioprocess Parameters](https://908devices.com/news/908-devices-launches-maverick-for-real-time-in-line-monitoring-of-multiple-bioprocess-parameters/): 908 Devices Launches MAVERICK for Real-Time In-Line Monitoring of Multiple Bioprocess Parameters
+- [908 Devices Reports Second Quarter 2023 Financial Results and Updates 2023 Revenue Outlook](https://908devices.com/news/908-devices-reports-second-quarter-2023-financial-results-and-updates-2023-revenue-outlook/): 908 Devices Reports Second Quarter 2023 Financial Results and Updates 2023 Revenue Outlook
+- [908 Devices to Report Second Quarter Financial Results on August 8, 2023](https://908devices.com/news/908-devices-to-report-second-quarter-financial-results-on-august-8-2023/): 908 Devices to Report Second Quarter Financial Results on August 8, 2023
+- [908 Devices to Participate in the William Blair 43rd Annual Growth Stock Conference](https://908devices.com/news/908-devices-to-participate-in-the-william-blair-43rd-annual-growth-stock-conference/): 908 Devices to Participate in the William Blair 43rd Annual Growth Stock Conference
+- [908 Devices Reports First Quarter 2023 Financial Results and Reiterates 2023 Revenue Outlook](https://908devices.com/news/908-devices-reports-first-quarter-2023-financial-results-and-reiterates-2023-revenue-outlook/): 908 Devices Reports First Quarter 2023 Financial Results and Reiterates 2023 Revenue Outlook
+- [Resilience Demonstrates Lower Cost of Perfusion Bioreactor Process Using 908 Devices’ REBEL At-line Analyzer](https://908devices.com/news/resilience-demonstrates-lower-cost-of-perfusion-bioreactor-process-using-908-devices-rebel-at-line-analyzer/): Resilience has adopted 908 Devices' REBEL at-line analyzer to enhance perfusion bioreactor processes.
+- [908 Devices to Report First Quarter Financial Results on May 9, 2023](https://908devices.com/news/908-devices-to-report-first-quarter-financial-results-on-may-9-2023/): 908 Devices to Report First Quarter Financial Results on May 9, 2023
+- [908 Devices Reports Fourth Quarter and Full Year 2022 Financial Results and Provides 2023 Revenue Outlook](https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2022-financial-results-and-provides-2023-revenue-outlook/): 908 Devices Reports Fourth Quarter and Full Year 2022 Financial Results and Provides 2023 Revenue Outlook
+- [908 Devices to Participate in the Cowen 43rd Annual Healthcare Conference](https://908devices.com/news/908-devices-to-participate-in-the-cowen-43rd-annual-healthcare-conference/): 908 Devices to Participate in the Cowen 43rd Annual Healthcare Conference
+- [908 Devices to Report Fourth Quarter and Full Year 2022 Financial Results on March 7, 2023](https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2022-financial-results-on-march-7-2023/): 908 Devices to Report Fourth Quarter and Full Year 2022 Financial Results on March 7, 2023
+- [908 Devices Unveils New Glucose and Lactate On-Line Device for Bioprocess Monitoring and Control](https://908devices.com/news/908-devices-unveils-new-glucose-and-lactate-on-line-device-for-bioprocess-monitoring-and-control/): 908 Devices Unveils New Glucose and Lactate On-Line Device for Bioprocess Monitoring and Control
+- [MX908 Device Enables Correctional Facility Personnel to Quickly Identify Illegal Drugs in Incoming Mail](https://908devices.com/news/mx908-device-enables-correctional-facility-personnel-to-quickly-identify-illegal-drugs-in-incoming-mail/): Customers, including the Minnesota Department of Corrections, are leveraging the MX908 handheld device to keep correctional officers and inmates safe from
+- [908 Devices Reports Third Quarter 2022 Financial Results and Updates Full Year 2022 Outlook](https://908devices.com/news/908-devices-reports-third-quarter-2022-financial-results-and-updates-full-year-2022-outlook/): 908 Devices Reports Third Quarter 2022 Financial Results and Updates Full Year 2022 Outlook
+- [908 Devices Records Strong Momentum in Life Sciences Sector](https://908devices.com/news/908-devices-records-strong-momentum-in-life-sciences-sector/): 908 Devices Records Strong Momentum in Life Sciences Sector
+- [908 Devices Launches Pesticide Identification Capability to Thwart Illegal Marijuana Growing Operations](https://908devices.com/news/908-devices-launches-pesticide-identification-capability-to-thwart-illegal-marijuana-growing-operations/): 908 Devices Launches Pesticide Identification Capability to Thwart Illegal Marijuana Growing Operations
+- [908 Devices to Participate in Upcoming Investor Conferences - November 2022](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-4/): BOSTON–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop mass spec devices for chemical and...
+- [908 Devices to Report Third Quarter 2022 Financial Results on November 14, 2022](https://908devices.com/news/908-devices-to-report-third-quarter-2022-financial-results-on-november-14-2022/): 908 Devices to Report Third Quarter 2022 Financial Results on November 14, 2022
+- [908 Devices and CPI Improve mAbs Cell Culture Outcomes Using At-line Media Analysis](https://908devices.com/news/908-devices-and-cpi-improve-mabs-cell-culture-outcomes-using-at-line-media-analysis/): 908 Devices and CPI Improve mAbs Cell Culture Outcomes Using At-line Media Analysis
+- [908 Devices Acquires TRACE Analytics, Enabling On-line Bioanalytics](https://908devices.com/news/908-devices-acquires-trace-analytics-enabling-on-line-bioanalytics-2/): 908 Devices Acquires TRACE Analytics, Enabling On-line Bioanalytics
+- [908 Devices Reports Second Quarter 2022 Financial Results and Reiterates 2022 Revenue Outlook](https://908devices.com/news/908-devices-reports-second-quarter-2022-financial-results-and-reiterates-2022-revenue-outlook/): 908 Devices Reports Second Quarter 2022 Financial Results and Reiterates 2022 Revenue Outlook
+- [908 Devices to Participate in the Canaccord Genuity 42nd Annual Growth Conference](https://908devices.com/news/908-devices-to-participate-in-the-canaccord-genuity-42nd-annual-growth-conference/): 908 Devices to Participate in the Canaccord Genuity 42nd Annual Growth Conference
+- [908 Devices to Report Second Quarter 2022 Financial Results on August 9, 2022](https://908devices.com/news/908-devices-to-report-second-quarter-2022-financial-results-on-august-9-2022/): 908 Devices to Report Second Quarter 2022 Financial Results on August 9, 2022
+- [908 Devices Showcases Technology for Accelerating Mass Spec Workflows in Presentations at ASMS](https://908devices.com/news/908-devices-showcases-technology-for-accelerating-mass-spec-workflows-in-presentations-at-asms/): 908 Devices Showcases Technology for Accelerating Mass Spec Workflows in Presentations at ASMS
+- [908 Devices to Participate in the William Blair 42nd Annual Growth Stock Conference](https://908devices.com/news/908-devices-to-participate-in-the-william-blair-42nd-annual-growth-stock-conference/): 908 Devices to Participate in the William Blair 42nd Annual Growth Stock Conference
+- [908 Devices Reports First Quarter 2022 Financial Results and Reiterates 2022 Revenue Outlook](https://908devices.com/news/908-devices-reports-first-quarter-2022-financial-results-and-reiterates-2022-revenue-outlook/): 908 Devices Reports First Quarter 2022 Financial Results and Reiterates 2022 Revenue Outlook
+- [908 Devices Advances MX908 Handheld Device Capabilities](https://908devices.com/news/908-devices-advances-mx908-handheld-device-capabilities/): 908 Devices Advances MX908 Handheld Device Capabilities
+- [908 Devices Partners with Key Biomanufacturing Innovation Center](https://908devices.com/news/908-devices-partners-with-key-biomanufacturing-innovation-center/): 908 Devices Partners with Key Biomanufacturing Innovation Center
+- [908 Devices and CPI Team on Cell Culture Media Optimization for Improved Process Control in Bioprocessing Applications](https://908devices.com/news/908-devices-and-cpi-team-on-cell-culture-media-optimization-for-improved-process-control-in-bioprocessing-applications/): 908 Devices and CPI Team on Cell Culture Media Optimization for Improved Process Control in Bioprocessing Applications
+- [908 Devices to Report First Quarter Financial Results on May 10, 2022](https://908devices.com/news/908-devices-to-report-first-quarter-financial-results-on-may-10-2022/): 908 Devices to Report First Quarter Financial Results on May 10, 2022
+- [908 Devices Reports Fourth Quarter and Full Year 2021 Financial Results and Provides 2022 Revenue Outlook](https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2021-financial-results-and-provides-2022-revenue-outlook/): 908 Devices Reports Fourth Quarter and Full Year 2021 Financial Results and Provides 2022 Revenue Outlook
+- [908 Devices Appoints Tony J. Hunt, President and CEO, Repligen, to its Board of Directors ](https://908devices.com/news/908-devices-appoints-tony-j-hunt-president-and-ceo-repligen-to-its-board-of-directors-%ef%bf%bc/): 908 Devices Appoints Tony J. Hunt, President and CEO, Repligen, to its Board of Directors 
+- [908 Devices to Report Fourth Quarter and Full Year 2021 Financial Results on March 7, 2022](https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2021-financial-results-on-march-7-2022/): 908 Devices to Report Fourth Quarter and Full Year 2021 Financial Results on March 7, 2022
+- [908 Devices to Participate in Upcoming Investor Conferences - Q1 2022](https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-3/): BOSTON, MA – February 8, 2022 – 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop mass spec...
+- [908 Devices Announces Preliminary Revenue for the Fourth Quarter and Full Year 2021](https://908devices.com/news/908-devices-announces-preliminary-revenue-for-the-fourth-quarter-and-full-year-2021/): 908 Devices Announces Preliminary Revenue for the Fourth Quarter and Full Year 2021
+- [908 Devices Announces GSK Purchases Fifth REBEL Cell Culture Media Analyzer](https://908devices.com/news/908-devices-announces-gsk-purchases-fifth-rebel-cell-culture-media-analyzer/): 908 Devices Announces GSK Purchases Fifth REBEL Cell Culture Media Analyzer
+
+
+## Products
+
+- [NIRLab](https://908devices.com/products/nirlab/): NIRLab is a drug field test device that identifies and quantifies common drugs, and connects results to a real-time intelligence...
+- [VipIR](https://908devices.com/products/vipir/): VipIR is a chemical analyzer, Raman spectrometer and FTIR device, that provides chemical analysis for customs and borders and hazmat...
+- [InterceptIR](https://908devices.com/products/interceptir/): Remote chemical gas detector for integration on an unmanned system to safely monitor inaccessible environments.
+- [ProtectIR](https://908devices.com/products/protectir/): Confidently identify and assess thousands of chemical threats anywhere with the compact, lightweight, handheld FTIR ProtectIR.
+- [ThreatID](https://908devices.com/products/threatid/): Portable FTIR chemical threat identification for thousands of complex mixtures for emergency and military responders.
+- [XplorIR](https://908devices.com/products/xplorir/): Handheld gas detector that can accurately detect and identify thousands of unknown chemicals and vapors in seconds.
+- [MX908](https://908devices.com/products/mx908/): MX908 is a handheld mass spectrometer used by first responders for rapid trace-level chemical identification of narcotics, hazardous materials, and...
+
+
+## Applications
+
+- [Defense](https://908devices.com/applications/defense/): Identify explosives, nerve agents, novichoks, and PBAs for combat operations in military and defense applications.
+- [Area Monitoring](https://908devices.com/applications/chemical-detection/area-monitoring/): Chemical detection and hazmat identification devices deliver excellent selectivity of hazardous materials, toxic industrial chemicals &amp; more.
+- [Correctional Facilities](https://908devices.com/applications/correctional-facilities/): MX908 rugged, hand-held, mass spectrometer, is utilized for drug identification in correctional facilities and prisons.
+- [Customs and Borders](https://908devices.com/applications/customs-and-borders/): Detect and identify unknown and illicit chemical substances, at bulk and trace-levels, to safeguard customs and borders.
+- [Pesticides](https://908devices.com/applications/chemical-detection/pesticides/): Pesticide detection and identification of hazardous and toxic materials commonly found at illegal grow sites.
+- [Narcotics](https://908devices.com/applications/narcotics-detection/): The MX908 handheld mass spectrometer is a drug detector that identifies a broad range of narcotics at invisible, trace levels,...
+- [Fire and Hazmat](https://908devices.com/applications/chemical-detection/): Chemical detection and hazmat identification devices deliver excellent selectivity of hazardous materials, toxic industrial chemicals &amp; more.
+
+
+## Resource Hub
+
+- [Beyond Color Tests: NIR Narcotics Identification](https://908devices.com/resource/beyond-color-tests-nir-narcotics-identification/): Learn how NIR narcotics identification can help law enforcement move beyond color tests with specific drug ID, purity data, and...
+- [Near-Infrared Spectroscopy for Field Narcotics Identification](https://908devices.com/resource/near-infrared-spectroscopy-for-field-narcotics-identification/): See how NIRLab performs on real narcotics evidence. Download the white paper comparing NIR vs Raman spectroscopy for field drug...
+- [Reducing Uncertainty in Chemical ID in Hazmat Incidents](https://908devices.com/resource/reducing-uncertainty-in-chemical-id-in-hazmat-incidents/): VipIR simplifies chemical identification in hazmat incidents by combining FTIR and Raman into one device, delivering a single high-confidence result...
+- [Quantify Everyday Drug Encounters](https://908devices.com/resource/quantify-everyday-drug-encounters/): NIRLab is the only NIR narcotics analyzer that identifies major drugs, quantifies purity, and measures THC concentration with results in...
+- [NIRLab Field Narcotics Intelligence](https://908devices.com/resource/nirlab-field-narcotics-intelligence/): NIRLab Field Narcotics Intelligence turns purity data into command-level drug market signals—tracking supply shifts, trafficking corridors, and emerging threats in...
+- [NIRLab Specification Sheet](https://908devices.com/resource/nirlab-specification-sheet/): Learn about the features and performance of NIRLab, a portable near-infrared spectroscopy (NIR) for cannabis potency testing and common drug...
+- [Operation FREE - Virginia’s Corrections-led Overdose Reduction Strategy](https://908devices.com/resource/operation-free-virginias-corrections-led-overdose-reduction-strategy/): Learn how Virginia eliminated fentanyl overdose deaths in correctional facilities from 24 to zero. Watch Marcus Anderson reveal the strategies...
+- [Protecting Crowded Places from Chemical Threats](https://908devices.com/resource/protecting-crowded-places-from-chemical-threats/): Watch the recording now and leave with a scalable plan to prepare, train, equip, and fund chemical threat readiness in...
+- [Pharmaceutical-based Agents (PBAs) Are a WMD Threat](https://908devices.com/resource/pbas-are-a-wmd-threat/): Aerosolized PBA detection is critical to address WMD threats posed by synthetic opioids. Learn why proven COTS technologies are essential.
+- [Your PID and Multi-Gas Meter Weren’t Replaced—Just Enhanced](https://908devices.com/resource/your-pid-and-multi-gas-meter-werent-replaced-just-enhanced/): Improve hazmat decision-making with the gas identification technology of XplorIR to enhance your PID and multi-gas meters. Quickly identify chemicals...
+- [Smarter Chemical Screening at the Border](https://908devices.com/resource/smarter-chemical-screening-at-the-border/): Improve customs narcotics detection with integrated workflows that combine trace detection and bulk chemical verification for faster, high-confidence screening decisions.
+- [The Adaptive Cycle of Synthetic Opioids](https://908devices.com/resource/the-adaptive-cycle-of-synthetic-opioids/): Discover how orphine opioids are reshaping the synthetic drug landscape. This white paper explains their emergence, detection challenges, operational risks,...
+- [Decoding FY26 Changes to Public Safety Grants](https://908devices.com/resource/decoding-fy26-changes-to-public-safety-grants/): Learn how FY26 public safety grants are changing—impacting funding, compliance, and approvals. Watch the on-demand webinar now.
+- [Shedding Light on Medetomidine Detection](https://908devices.com/resource/shedding-light-on-medetomidine-detection/): Gain insight into how early medetomidine detection with MX908 enhances situational awareness by aligning field intelligence with forensic and public...
+- [Making the Unknown Known in HazMat](https://908devices.com/resource/making-the-unknown-known-in-hazmat/): Discover how modern tools transform hazmat incident command by enabling faster gas identification, real‑time team coordination, and more defensible decision‑making...
+- [Narcotics Interdiction to WMD Defense](https://908devices.com/resource/narcotics-interdiction-to-wmd-defense/): This white paper covers an overview of how the 2025 fentanyl WMD designation and the closure of the de minimis...
+- [Realtime Insights through Reachback Data Review](https://908devices.com/resource/realtime-insights-through-reachback-data-review/): Explore how real‑time field detection and intelligence help agencies identify emerging street drug trends early and respond faster to evolving...
+- [Rapid Chemical Spill Identification with ProtectIR FTIR](https://908devices.com/resource/rapid-chemical-spill-identification-with-protectir-ftir/): ProtectIR enables rapid chemical spill identification, helping responders contain nitric acid safely and prevent environmental harm in Ukraine.
+- [From Emergence to Response: Mapping Substance Trends Across Intelligence Streams](https://908devices.com/resource/from-emergence-to-response-mapping-substance-trends-across-intelligence-streams/): Discover how to track and analyze emerging drug trends using multi-source intelligence, including online communities and forensic data, to stay...
+- [Why Correctional Facilities Are Moving Beyond Colorimetric Drug Tests](https://908devices.com/resource/why-correctional-facilities-are-moving-beyond-colorimetric-drug-tests/): Learn why correctional facilities and jails are moving beyond unreliable colorimetric drug tests, adopting MX908 for rapid, accurate narcotics detection...
+- [MX908 Helps Resolve Bolivia Mass Poisoning](https://908devices.com/resource/mx908-helps-resolve-bolivia-mass-poisoning/): Discover how the MX908 portable spectrometer rapidly solved a dimethylphosphite poisoning case in Bolivia.
+- [Narcotics Analyzer for Identifying Drugs in Jail](https://908devices.com/resource/narcotics-analyzer-for-identifying-drugs-in-jail/): Discover how the MX908 handheld narcotics analyzer helps jails and correctional facilities rapidly detect trace-level drugs in mail and other...
+- [Increase Confidence and Safety in Explosive Identification](https://908devices.com/resource/increase-confidence-and-safety-in-explosive-identification/): Enhance explosive threat response with the VipIR Raman FTIR analyzer that delivers fast, high-confidence identification of unknown materials in the...
+- [The Impact of Drug Case Delays on Officer Morale](https://908devices.com/resource/the-impact-of-drug-case-delays-on-officer-morale/): Drug case delays from overwhelmed forensic labs slow investigations and negatively impact officer morale, leaving officers frustrated as suspects often...
+- [Leveraging MX908 in Overdose Investigations](https://908devices.com/resource/leveraging-mx908-in-overdose-investigations/): The MX908 provides rapid, on-site chemical identification that enhances safety and accelerates evidence gathering during overdose investigations.
+- [Elevate Your PID with XplorIR](https://908devices.com/resource/elevate-your-pid-with-xplorir/): Pairing a PID with XplorIR enables responders to quickly and confidently detect, identify, and quantify hazardous gases and vapors—giving them...
+- [VipIR and the 908 Devices Toolbox](https://908devices.com/resource/vipir-and-the-908-devices-toolbox/): Discover how the latest chemical detection technology is transforming hazmat and emergency response. Learn about advanced tools like the VipIR,...
+- [SmartID: Integrated Raman, FTIR, SSP](https://908devices.com/resource/smartid-integrated-raman-ftir-ssp/): Discover how the VipIR SmartID workflow integrates Raman, FTIR, and Smart Spectral Processing to deliver fast, accurate, and safe field-based...
+- [Chemical Analyzers for Hazmat](https://908devices.com/resource/chemical-analyzers-for-hazmat/): Discover 908 Devices’ suite of handheld chemical analyzers for fast, accurate identification of unknown solids, liquids, gases, and aerosols.
+- [Enhanced Solid & Liquid Mixture Analysis Performance](https://908devices.com/resource/enhanced-solid-liquid-mixture-analysis-performance/): ProtectIR sets a new standard in mixture analysis, enabling hazmat, border security, and forensic teams to confidently identify more components...
+- [XplorIR Eliminates the Gap in Gas Identification](https://908devices.com/resource/xplorir-eliminates-the-gap-in-gas-identification/): XplorIR delivers rapid, accurate gas identification for hazmat response, helping teams detect, identify, and quantify over 5,600 hazardous gases in...
+- [XplorIR Case Study - Urban Hazmat Incident](https://908devices.com/resource/xplorir-case-study-urban-hazmat-incident/): Hazmat responders used XplorIR to rapidly identify tetrachloroethylene during an urban incident, enabling faster, safer chemical response.
+- [In Their Words: How One Corrections Team Stops Drugs at the Gate](https://908devices.com/resource/in-their-words-how-one-corrections-team-stops-drugs-at-the-gate/): This webinar features corrections professionals sharing real-world strategies for contraband detection, highlighting tools like the MX908, K9s, and advanced mail...
+- [Hazmat, Detection, and the Hidden Threats We Face](https://908devices.com/resource/hazmat-detection-and-the-hidden-threats-we-face/): Dr. Mark Norman joins The Firefighters Podcast to talk about the evolution of hazmat detection – from lab tech to...
+- [The Procurement Pendulum Swings Back](https://908devices.com/resource/the-procurement-pendulum-swings-back/): 908 Devices is advancing CBRN defense with portable, high-precision detection tools like the MX908—trusted globally for rapid field identification, real-time intelligence, and mission-ready support.
+- [Drug Detection at the Border: How VipIR and MX908 Work Together to Elevate Customs & Border Screening](https://908devices.com/resource/drug-detection-at-the-border-how-vipir-and-mx908-work-together-to-elevate-customs-border-screening/): Discover how VipIR and MX908 work together to elevate border drug detection with rapid screening and advanced chemical identification—helping customs...
+- [VipIR Specification Sheet - Customs & Borders](https://908devices.com/resource/vipir-specification-sheet-customs-borders/): Learn about the features and performance of VipIR, a portable 3-in-1 device that utilizes Raman, FTIR and SSP to identify...
+- [VipIR Specification Sheet - Hazardous Materials & CBRN](https://908devices.com/resource/vipir-specification-sheet-hazardous-materials-cbrn/): Learn about the features and performance of VipIR, a portable 3-in-1 device that utilizes Raman, FTIR and SSP to identify...
+- [Trace Chemical Detection for Customs Inspection](https://908devices.com/resource/trace-chemical-detection-for-customs-inspection/): Enhance border security with fast, accurate chemical detection for customs inspections. Discover how MX908 handheld mass spectrometer streamlines trace drug...
+- [Hazmat Response Reinvented: How DroneDog and InterceptIR are Changing the Game](https://908devices.com/resource/hazmat-response-reinvented-how-dronedog-and-interceptir-are-changing-the-game/): Explore how cutting-edge tools like DroneDog and InterceptIR are transforming remote hazmat response.
+- [Chilean Border Agents Foil Multiple Narcotics Smuggling Attempts with MX908](https://908devices.com/resource/chilean-border-agents-foil-multiple-narcotics-smuggling-attempts-with-mx908/): Explore how advanced detection technology is helping stop drug smuggling at airports through real-world case studies from Chilean customs.
+- [ProtectIR New Condensed Phase Mixture Analysis](https://908devices.com/resource/protectir-new-condensed-phase-mixture-analysis/): ProtectIR new condensed phase mixture analysis includes true positive and false positive rates and success rates of single or multi-component...
+- [The Emerging Threat of Nitazenes in the Synthetic Opioid Crisis](https://908devices.com/resource/the-emerging-threat-of-nitazenes-in-the-synthetic-opioid-crisis/): Discover how nitazenes—synthetic opioids up to 40x stronger than fentanyl—are fueling a new wave in the overdose crisis. Learn about...
+- [Unlocking Public Safety Grants and Funding in 2025](https://908devices.com/resource/unlocking-public-safety-grants-and-funding-in-2025/): This webinar will equip you with the tools to maximize funding and navigate the evolving grant process.
+- [The Current State of the Opioid Crisis & Other Emerging Threats](https://908devices.com/resource/the-current-state-of-the-opioid-crisis-other-emerging-threats/): This article examines the evolving opioid crisis, highlighting the need for advanced detection technologies and coordinated prevention efforts to combat...
+- [Unmasking Nitazenes: Novel Substances Joining Fentanyl in the Synthetic Opioid Landscape](https://908devices.com/resource/unmasking-nitazenes-novel-substances-joining-fentanyl-in-the-synthetic-opioid-landscape/): This webinar explores the emerging threat of nitazenes, their parallels to the fentanyl crisis, and how the MX908 enhances detection...
+- [Simplifying Everyday Hazmat Calls with Advanced Technology](https://908devices.com/resource/simplifying-everyday-hazmat-calls-with-advanced-technology/): From routine calls such as carbon monoxide and odor detection, to more complex incidents involving multiple chemical substances learn how...
+- [Improving Substance Detection and Identification in Correctional Facilities](https://908devices.com/resource/improving-substance-detection-and-identification-in-correctional-facilities/): Watch this webinar to learn more about MX908 for Corrections Screening and pairing with RaySecur's MailSecur system for robust narcotics...
+- [Interview: RSK Media Interviews Kevin J. Knopp](https://908devices.com/resource/interview-rsk-media-interviews-kevin-j-knopp/): RSK Media, Rizwan Chaudhrey, visited Boston and met with 908 Devices CEO, Kevin J. Knopp. Topics included key business drivers,...
+- [Catching a RedWave](https://908devices.com/resource/catching-a-redwave/): Explore how 908 Devices' acquisition of RedWave Technology is revolutionizing chemical detection with advanced mass spectrometry and FTIR solutions, expanding capabilities for public safety and military applications.
+- [Empowering Field Operations: Integrated Chemical Analysis](https://908devices.com/resource/empowering-field-operations-integrated-chemical-analysis/): This webinar is designed for emergency response teams, defense personnel, and security professionals needing quick, accurate integrated chemical analysis.
+- [Trace Identification of Nitazenes](https://908devices.com/resource/trace-identification-of-nitazenes/): This mission brief covers the advantages of using MX908 for the trace identification of nitazenes.
+- [XplorIR Quantification](https://908devices.com/resource/xplorir-quantification/): Learn about XplorIR quantification package, which allows users to measure the concentration of a hazardous gas or vapor at part-per-million...
+- [XplorIR Quantification Package](https://908devices.com/resource/xplorir-quantification-package/): The XplorIR can now simultaneously identify and quantify hazardous gases and vapors with this new package pairing.
+- [ThreatID Specification Sheet](https://908devices.com/resource/threatid-specification-sheet/): Learn about the features and performance of ThreatID, a portable FTIR device designed for analyzing solids, liquids, gases, and complex...
+- [InterceptIR Specification Sheet](https://908devices.com/resource/interceptir-specification-sheet/): Learn about the features and performance of InterceptIR, rapid gas identifier for unmanned systems.
+- [XplorIR Specification Sheet](https://908devices.com/resource/xplorir-specification-sheet/): Learn about the specifications for XplorIR, enabling continuous detection and identification of gas threats, even within complex mixtures.
+- [ProtectIR Specification Sheet](https://908devices.com/resource/protectir-specification-sheet/): Learn about the features and performance of ProtectIR, a portable FTIR device designed for analyzing solid and liquid threats.
+- [XplorIR and LEL Sensors for Hazmat Response](https://908devices.com/resource/xplorir-and-lel-sensors-for-hazmat-response/): Learn about the integration of XplorIR's gas identification capabilities with the common air monitoring tool of the LEL sensor.
+- [Are Colorimetric Tubes Becoming Obsolete for HazMat/CBRN Response](https://908devices.com/resource/are-colorimetric-tubes-obsolete-hazmat/): Learn how the XplorIR revolutionizes gas detection by eliminating the drawbacks of traditional colorimetric tubes.
+- [XplorIR's Gas Mixtures Analysis](https://908devices.com/resource/xplorirs-gas-mixtures-analysis/): Dr. John Seelenbinder discusses with the Hazmat Guys how the XplorIR now identifies up to 6 gas components in-real time...
+- [Adaptive Atmospheric Correction - XplorIR](https://908devices.com/resource/xplorir-adaptive-atmospheric-correction/): Dr. John Seelenbinder discusses with the Hazmat Guys how the XplorIR achieves accurate gas sample identification, even with humidity and...
+- [Infrared Gas Identification in Any Condition: Adaptive Atmospheric Correction of the XplorIR](https://908devices.com/resource/infrared-gas-identification-xplorir/): The XplorIR can accurately identify toxic gases at low concentrations, providing critical support for emergency responders in hazardous material detection.
+- [ThreatID Case Study: United States Postal Inspection Service](https://908devices.com/resource/uspis/): Learn why USPIS chose the ThreatID for advanced screening and detection, distinguishing it from other FTIR technologies.
+- [Understanding Limits of Identification of the XplorIR](https://908devices.com/resource/understanding-limit-of-identification-of-the-xplorir/): XplorIR's Limit of Identification can be determined for a given meter and chemical product under specific operational conditions.
+- [Transformative Impact of Gas Phase FTIR on Hazmat Operations](https://908devices.com/resource/transformative-impact-gas-phase-ftir-for-hazmat-operations/): Listen to a panel discuss current methods for gas detection in the hazmat/CBRNe applications.
+- [ThreatID - Powder/Liquid Module Demonstration](https://908devices.com/resource/threatid-powder-liquid-module-demonstration/): This video focuses on how the ThreatID powder/liquid module is capable of identifying over 23000 chemicals.
+- [ThreatID - Gas Cell Module Demonstration](https://908devices.com/resource/threatid-gas-cell-module-demonstration/): This video focuses on how the ThreatID gas cell module is capable of identifying over 5600 chemicals.
+- [XplorIR: Gas Identification for Rapid Response](https://908devices.com/resource/threat-brief-xplorir-mixture-analysis/): Learn how the XplorIR provides positive gas identification during an explosion at a clandestine meth lab.
+- [The Pivotal Role of FTIR in Hazmat/Emergency Response](https://908devices.com/resource/the-pivitol-role-of-ftir-in-hazmat-emergency-response/): This webinar discussion highlights current emerging chemical threats and the solutions that FTIR technology provides in response.
+- [Team Leader App // Threat Assist - Hazardous Chemical Database Demo](https://908devices.com/resource/team-leader-threat-assist-hazardous-chemical-database/): Learn about the Team Leader mobile app. View results in real-time outside the hotzone.
+- [FTIR for Chemical Suicides - Responding to Emerging Threats](https://908devices.com/resource/responding-to-chemical-suicides/): Dr. Christina Baxter of Emergency Response TIPS discusses how innovative FTIR solutions are countering the threat of chemical suicides.
+- [XplorIR - Handheld FTIR for Over 5,600 Gases/Vapors](https://908devices.com/resource/xplorir-product-video/): Learn about XplorIR's ability to detect and identify unknown chemical threats in seconds.
+- [Portable FTIR Overview - ThreatID for Powders, Liquids, & Gases](https://908devices.com/resource/redwave-technology-threatid-overview/): Learn about ThreatID's multi-threat identification capabilities, even in complex chemical mixtures.
+- [ProtectIR Demonstration](https://908devices.com/resource/protectir-demo/): Learn how to confidently identify thousands of chemical threats anywhere with the portable ProtectIR.
+- [Traditional Air Monitoring and How FTIR Gas Identification is Changing the Game](https://908devices.com/resource/ondemand-webinar-pid-and-ftir/): Listen as Lt. Brandon Gayle discusses with the Hazmat Guys the importance of knowing the identity and concentration of toxic...
+- [ThreatID: Lithium-ion Battery Decommissioning](https://908devices.com/resource/lithium-ion-battery-decommissioning/): Learn how ThreatID identified hazardous gas components generated during a Lithium-Ion battery decommissioning.
+- [How FTIR is Filling the Gas Identification Gap](https://908devices.com/resource/how-ftir-is-filling-the-gas-identification-gap/): Industry experts discuss how FTIR technology is used to address gas identification in hazmat/CBRNe response.
+- [FTIR for Industrial Chemicals - Responding to Emerging Threats](https://908devices.com/resource/ftir-for-industrial-chemicals-responding-to-emerging-threats/): Dr. Christina Baxter, CEO of Emergency Response TIPS, discusses how FTIR technology can be deployed in industrial chemical accidents.
+- [Expert Panel Discussion - The Gas Threat Response](https://908devices.com/resource/expert-roundtable-the-gas-threat-response/): Learn about real-world gas threats, including chemical suicides, accidental pesticide exposures, and transportation accidents, and the pivotal role of FTIR...
+- [Breaking New Ground: Gas Mixture Analysis with XplorIR](https://908devices.com/resource/breaking-new-ground-gas-mixture-analysis-with-xplorir/): Learn how the XplorIR identifies mixed chemical products and overcomes current chemical detection challenges through its ability to identify up to 6 gas components within complex mixtures.
+- [XplorIR Solves Oxygen Displacement Solved for Hazmat Response](https://908devices.com/resource/oxygen-displacement-and-xplorir/): Learn how XplorIR solves oxygen displacement for hazmat response and why it is deployed with gas monitors during recon entry.
+- [Expanding Your Toolbox: Pairing Your PID with FTIR](https://908devices.com/resource/detect-and-identify-with-pid-and-ftir/): Learn about PID entry methods and how continuous air monitoring with XplorIR can identify unknown gases in the hotzone.
+- [XplorIR Solves CO Cross-Sensitivity for Hazmat Response](https://908devices.com/resource/co-cross-sensitivity-and-xplorir/): Learn how XplorIR accurately identifies toxic gases that for a CO sensor would present cross sensitivity and inaccurate measurements.
+- [Building Your Recon Toolbox](https://908devices.com/resource/building-your-recon-toolbox/): Learn how the XplorIR is a logical addition to your set of recon tools with it's real-time gas and vapor identification capabilities.
+- [Critical Gaps in Gas Detection Methods in Hazmat Scenarios](https://908devices.com/resource/critical-gaps-in-gas-detection-methods-in-hazmat-scenarios/): This webinar will discuss the crucial role of gas detection in hazmat management, comparing existing methods and emphasizing the advanced...
+- [Beyond Detection: The Imperative for Advanced Trace-Level Identification of Synthetic Opioids](https://908devices.com/resource/beyond-detection-the-imperative-for-advanced-trace-level-identification-of-synthetic-opioids/): This webinar explores strategies for implementing MX908 for HIDTA and Counterdrug initiatives.
+- [Maximizing Decon Efficiency: Solutions for Dangerous Drugs](https://908devices.com/resource/maximizing-decon-efficiency-solutions-for-fentanyl-and-other-drugs/): Watch this webinar to learn how First Line Technology and 908 Devices products work together to provide robust decon solutions.
+- [Trace Drug Identification at the Border: 3 Scenarios from the New Zealand Customs Service](https://908devices.com/resource/trace-drug-identification-at-the-border-3-scenarios-from-the-new-zealand-customs-service/): Whether using trace identification features for drug traffickers, deploying vapor capabilities to analyze threats or implementing the explosive functionality to...
+- [Why are Fentanyl and Fake Pills so Deadly](https://908devices.com/resource/why-are-fentanyl-and-fake-pills-so-deadly-infographic/): Download this infographic to increase your knowledge about fentanyl awareness and review survey results conducted by Dynata.
+- [Staying Ahead of the Curve: Navigating Emerging Drugs for Law Enforcement](https://908devices.com/resource/staying-ahead-of-the-curve-navigating-emerging-drugs-for-law-enforcement/): Learn about diverse drug classifications and why new substances, such as xylazine and medetomidine, are emerging more frequently. Stay ahead...
+- [Grant Writing Strategies for Public Safety](https://908devices.com/resource/grant-writing-strategies-for-public-safety/): Are you seeking to enhance your department's resources or make a significant impact on the fentanyl epidemic? Watch this webinar...
+- [The MX908 Advantage in the Presence of Cutting Agents](https://908devices.com/resource/mx908-advantage-in-the-presence-of-cutting-agents/): Read our latest whitepaper to see how MX908 performed in a study of the most common cutting agents found around...
+- [Identifying Dangerous Materials in Mail](https://908devices.com/resource/mx908-identifying-dangerous-materials-in-mail/): Learn what are the commonly seized substances in everyday mail and how our MX908 is utilized as a screening tool...
+- [Deadly Drug Investigations](https://908devices.com/resource/mx908-webinars-fentanyl-and-other-deadly-drug-investigations/): This webinar provides an overview of the rise of the opioid epidemic in the U. S. . Through the use...
+- [Suspect Fentanyl Mail Analysis and Best Practices](https://908devices.com/resource/suspect-fentanyl-mail-analysis-and-best-practices/): Watch our quick webinar on suspect fentanyl mail analysis to learn best practices on utilizing MX908 for screening suspected mail.
+- [Identifying Chemicals Precisely Through Trace Analysis is Now a Reality, Opening New Doors for Customs Officers](https://908devices.com/resource/mx908-published-articles-ff-mx-pa-0004/): This article, authored by our own John Johnson, was originally published in WCO News, Issue 3/ 2023. This article introduces...
+- [The New MX908 Beacon for Area Monitoring](https://908devices.com/resource/podcast-the-new-mx908-beacon-for-area-monitoring/): We recently caught up with The HazMat Guys Podcast to discuss what&#039;s new from 908 Devices for area monitoring missions.
+- [Identifying a Synthetic Cannabinoid Imbedded in Paper](https://908devices.com/resource/identifying-a-synthetic-cannabinoid-imbedded-in-paper/): Read our latest case study on how MX908 aids correctional staff to proactively identify drugs at nanogram levels via trace...
+- [Responding to Chemical Warfare and Pharmaceutical Based Agents](https://908devices.com/resource/on-demand-webinar-responding-to-chemical-warfare-and-pharmaceutical-based-agents/): A must watch for CBRN first responders. Receive the latest info on dangerous chemical threats, chemical warfare, and pharmaceutical based...
+- [MX908 Beacon Product Video](https://908devices.com/resource/mx908-beacon-product-video/): Watch this video to see how MX908 Beacon can be deployed to provide remote area monitoring to provide real-time identification...
+
+#
+# Detailed Content
+
+
+## Pages
+
+- Published: 2026-03-16
+- Modified: 2026-03-16
+- URL: https://908devices.com/accessibility-statement/
+Read 908 Devices' Privacy Policy to understand how we collect, use, and protect your personal information.
+
+
+- Published: 2024-06-03
+- Modified: 2026-06-10
+- URL: https://908devices.com/threatassist-database/
+
+- Published: 2024-06-03
+- Modified: 2026-07-28
+- URL: https://908devices.com/teamleader-software/
+
+- Published: 2024-01-09
+- Modified: 2026-07-31
+- URL: https://908devices.com/in-the-media/
+
+- Published: 2022-08-23
+- Modified: 2025-10-22
+- URL: https://908devices.com/patents/
+
+- Published: 2022-04-27
+- Modified: 2025-10-20
+- URL: https://908devices.com/mx908-remote-app/
+The MX908 Remote App pairs with your MX908 for seamless Bluetooth connectivity. Export real-time analysis results & access additional support easily.
+
+
+- Published: 2022-03-09
+- Modified: 2025-12-09
+- URL: https://908devices.com/careers/
+Explore career opportunities at 908 Devices! Join our passionate team working on cutting-edge technologies in mass spec and field detection.
+
+
+- Published: 2022-02-28
+- Modified: 2025-10-23
+- URL: https://908devices.com/terms-of-use/
+
+- Published: 2022-02-28
+- Modified: 2025-10-23
+- URL: https://908devices.com/privacy-policy/
+Read 908 Devices' Privacy Policy to understand how we collect, use, and protect your personal information.
+
+
+- Published: 2022-02-18
+- Modified: 2025-12-02
+- URL: https://908devices.com/gap-analysis-tool/
+Try the Gap Analysis Tool to compare technologies in narcotics, explosives, and hazardous materials for chemical detection and identification.
+
+
+- Published: 2021-08-24
+- Modified: 2026-08-31
+- URL: https://908devices.com/how-to-buy/
+Find authorized partners and regional distributors to buy our products and inquire about our innovative solutions in mass spectrometry and field detection.
+
+
+- Published: 2021-08-23
+- Modified: 2026-06-04
+- URL: https://908devices.com/about/
+908 Devices is revolutionizing chemical analysis with our simple handheld devices for forensics and field detection.
+
+
+- Published: 2021-08-23
+- Modified: 2025-10-22
+- URL: https://908devices.com/thank-you/
+
+- Published: 2021-08-23
+- Modified: 2026-06-23
+- URL: https://908devices.com/contact/
+Contact 908 Devices for sales inquiries, service & support, or general questions. Reach out to learn about innovative solutions in field detection.
+
+
+- Published: 2021-08-19
+- Modified: 2026-04-24
+- URL: https://908devices.com/team/
+Meet the innovative minds behind 908 Devices. Our team is passionate about creating cutting-edge solutions in forensics applications.
+
+
+- Published: 2021-08-18
+- Modified: 2026-01-28
+- URL: https://908devices.com/technology/
+
+- Published: 2021-08-17
+- Modified: 2026-08-31
+- URL: https://908devices.com/
+
+
+
+## Blog
+
+- Published: 2026-09-01
+- Modified: 2026-09-01
+- URL: https://908devices.com/blog/the-quattrone-study-how-drug-field-tests-send-innocent-people-to-jail/
+- Products: NIRLab
+The Quattrone study reveals that colorimetric drug tests cause 30,000 wrongful U.S. arrests annually due to high false-positive rates. Learn how NIRLab uses molecular spectroscopic signatures against a validated reference library to accurately identify substances without sample contact or reagent-based errors.
+
+
+- Published: 2026-08-26
+- Modified: 2026-08-27
+- URL: https://908devices.com/blog/why-k2-spice-is-keeping-corrections-staff-up-at-night/
+- Products: MX908
+There has been a significant rise in synthetic cannabinoids, known as K2/spice, being smuggled into prisons. Learn how MX908 provides accurate trace identification for suspicious mail entering correctional facilities.
+
+
+- Published: 2026-08-17
+- Modified: 2026-09-02
+- URL: https://908devices.com/blog/cots-cots-mod-and-the-new-defense-buying-mindset/
+- Products: MX908
+Learn why faster fielding now favors commercially proven chemical detection capability and why 908 Devices stands alone for real-time identification of aerosolized PBAs.
+
+
+- Published: 2026-07-08
+- Modified: 2026-08-04
+- URL: https://908devices.com/blog/colorado-hb-26-1020-what-it-means-for-every-law-enforcement-agency/
+- Products: NIRLab
+A new Colorado law bans custodial drug arrests based solely on colorimetric field tests due to high false-positive rates. Learn how NIRLab provides identification of all major street drugs without false positive vulnerabilities.
+
+
+- Published: 2026-06-04
+- Modified: 2026-07-02
+- URL: https://908devices.com/blog/inside-the-walls-control-matters-why-sheriffs-need-better-tools-to-stop-narcotics-before-they-become-a-jail-overdose/
+- Products: NIRLab, MX908
+Learn about the growing challenge sheriff's offices face as synthetic narcotics and other dangerous substances infiltrate jail environments.
+
+
+- Published: 2026-04-10
+- Modified: 2026-04-10
+- URL: https://908devices.com/blog/your-gas-meter-didnt-get-replaced-it-got-smarter/
+- Products: XplorIR
+Pairing a PID and multi-gas meter with XplorIR turns unknown readings into identified chemical hazards for smarter, safer hazmat response.
+
+
+- Published: 2026-04-03
+- Modified: 2026-04-08
+- URL: https://908devices.com/blog/drug-soaked-papers-appearing-in-correctional-facilities/
+- Products: MX908
+Learn how MX908 identifies trace-levels of synthetic cannabinoids from "drug-soaked papers" being smuggled into correctional facilities.
+
+
+- Published: 2026-03-18
+- Modified: 2026-03-18
+- URL: https://908devices.com/blog/understanding-the-orphine-threat-and-the-future-of-field-intelligence/
+- Products: MX908
+Orphines represent a new synthetic opioid threat, requiring advanced field intelligence and MX908 identification.
+
+
+- Published: 2026-03-10
+- Modified: 2026-03-10
+- URL: https://908devices.com/blog/beyond-critical-infrastructure/
+- Products: MX908, XplorIR, VipIR, ProtectIR, ThreatID
+Learn why DHS funding is shifting to focus on public events, requiring applicants to focus their grant strategy on protecting people in open-venues.
+
+
+- Published: 2026-02-26
+- Modified: 2026-02-26
+- URL: https://908devices.com/blog/how-advanced-detection-technologies-are-transforming-customs-and-border-inspections/
+- Products: MX908, VipIR
+Discover how advanced customs inspection technology improves narcotics detection, chemical identification, and trade compliance at ports of entry.
+
+
+- Published: 2026-02-05
+- Modified: 2026-09-01
+- URL: https://908devices.com/blog/mx908-software-release-v3-6/
+- Products: MX908
+MX908 latest software release offers five additional drug targets for the MX908 target list. This includes the addition of three synthetic cannabinoids, a synthetic cathinone, and a nitazene, a highly potent synthetic opioid.
+
+
+- Published: 2026-02-02
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/federal-narcotics-interdiction-in-the-age-of-fentanyl/
+- Products: MX908
+Illicit fentanyl is now a WMD threat. Learn how MX908 provides trace-level identification to ensure safety and faster narcotics interdiction for law enforcement agencies.
+
+
+- Published: 2026-01-05
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/operation-black-swan-breaks-a-9000-mile-drug-trafficking-pipeline/
+- Products: MX908
+Learn how Chilean authorities utilized the MX908 trace chemical detector during 'Operation Black Swan', which dismantled a transnational drug pipeline.
+
+
+- Published: 2025-12-19
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/from-emergence-to-response-why-rapid-field-detection-is-now-a-global-priority/
+- Products: MX908, VipIR
+Learn how MX908 and VipIR provide rapid field detection of synthetic opioids, enabling real-time intelligence to combat the global drug crisis.
+
+
+- Published: 2025-12-17
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/when-fentanyl-is-treated-as-a-wmd-trace-detection-takes-on-new-meaning/
+- Products: MX908
+Treating fentanyl as a WMD shifts focus to trace detection, requiring tools capable of identifying nanogram-levels of chemical threats.
+
+
+- Published: 2025-12-02
+- Modified: 2026-07-24
+- URL: https://908devices.com/blog/the-shadow-drug-nitazenes/
+- Products: MX908
+Learn how MX908 detects and identifies nitazene analogues, synthetic opioids 40x stronger than fentanyl that are driving the opioid crisis.
+
+
+- Published: 2025-11-14
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/the-unseen-dangers-of-synthetic-materials-and-ev-fires-protecting-firefighters-from-airborne-hazards/
+- Products: XplorIR
+Fires from modern synthetic materials and EVs pose severe airborne hazards. Learn how XplorIR delivers real-time detection, identification, and quantification of these toxic gases.
+
+
+- Published: 2025-10-29
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/emerging-drug-alert-purple-fentanyl/
+- Products: MX908
+Purple fentanyl's unpredictable potency makes it extremely dangerous; see how MX908 reduces exposure risk.
+
+
+- Published: 2025-10-21
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/what-new-federal-efforts-mean-for-combating-the-opioid-crisis/
+- Products: MX908, VipIR
+New federal laws—HALT, STOP, and DETECT Acts—boost the fight against opioids with enhanced detection, enforcement, and border security.
+
+
+- Published: 2025-10-08
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/reliable-drug-detection/
+- Products: MX908
+Reliable drug detection is more streamlined than ever, with the MX908 delivering results on-site, in seconds.
+
+
+- Published: 2025-09-30
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/how-smart-spectral-processing-transforms-chemical-identification-at-the-border/
+- Products: VipIR
+Learn how the VipIR's Smart Spectral Processing algorithm uses Raman and FTIR technologies for accurate, fast chemical identification at the border.
+
+
+- Published: 2025-09-17
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/nerve-agent-detector/
+- Products: MX908
+Nerve agent detectors are essential tools in identifying and neutralizing the potentially catastrophic effects of nerve agents.
+
+
+- Published: 2025-09-10
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/gray-death-what-every-officer-needs-to-know-about-this-lethal-drug/
+- Products: MX908
+Discover what law enforcement officers need to know about Gray Death—a lethal mix of opioids like fentanyl and carfentanil—and how the MX908 helps safely identify this deadly drug in the field.
+
+
+- Published: 2025-08-20
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/medetomidine-aka-rhino-tranq-what-to-know-about-this-emerging-illicit-drug/
+- Products: MX908
+Medetomidine, or "rhino tranq", is a potent veterinary sedative being used as a dangerous cutting agent with fentanyl, leading to fatal overdoses.
+
+
+- Published: 2025-08-06
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/what-the-one-big-beautiful-bill-means-for-first-responders-and-national-security/
+- Products: MX908, XplorIR, VipIR
+The "One Big Beautiful Bill" (OBBB) boosts national security by including funding for the procurement of modern detection tools for military, law enforcement, and border patrol.
+
+
+- Published: 2025-07-21
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/securing-the-future-of-public-events-how-908-devices-helps-meet-the-moment/
+- Products: MX908, XplorIR, VipIR
+Learn how 908 Devices boosts public event safety with advanced solutions for area monitoring, suspicious package screening, and more.
+
+
+- Published: 2025-07-09
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/operation-free-working-together-to-combat-the-fentanyl-crisis/
+- Products: MX908
+Operation FREE fights the fentanyl crisis through interagency collaboration, training law enforcement, and using advanced tech like the MX908 for on-site fentanyl detection.
+
+
+- Published: 2025-06-25
+- Modified: 2026-09-02
+- URL: https://908devices.com/blog/a-note-from-our-ceo/
+Discover 908 Devices 2.0 — a bold transformation focused on handheld chemical analysis for vital health, safety and defense tech applications. Learn how we’re innovating to deliver rapid, field-ready solutions for today’s most urgent challenges.
+
+
+- Published: 2025-06-09
+- Modified: 2026-07-02
+- URL: https://908devices.com/blog/how-xplorir-speeds-up-hazmat-unit-decision-making/
+- Products: XplorIR
+XplorIR identifies and quantifies chemicals in real-time, empowering hazmat units with critical data to make fast, safe, and effective decisions.
+
+
+- Published: 2025-06-04
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/legacy-of-spectroscopy-for-public-safety/
+- Products: MX908, XplorIR
+After 9/11, learn how handheld, field-based chemical identification devices utilizing lab-grade analytical technologies became crucial tools for protecting first responders and saving lives.
+
+
+- Published: 2025-05-05
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/practical-workshops-for-law-enforcement-and-hazmat-teams/
+- Products: MX908
+Enhance your training experience through a law enforcement or hazmat workshop led by 908 Devices, where attendees learn through real-world case studies.
+
+
+- Published: 2025-04-28
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/2025-office-of-national-drug-control-policy-framework-a-guiding-force-to-stop-illicit-drugs/
+- Products: MX908
+The Office of National Drug Control Policy has set its priorities, which includes detection technologies to combat illicit drugs like fentanyl and emerging synthetic opioids.
+
+
+- Published: 2025-04-17
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/unlocking-funding-key-steps-for-law-enforcement-and-fire-hazmat-teams-to-secure-grant-assistance/
+- Products: MX908, XplorIR, ProtectIR, ThreatID
+Learn from 908 Devices how to navigate complex grants and secure funding for your current mission-critical priorities.
+
+
+- Published: 2025-03-25
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/nitrous-oxide-abuse-and-the-role-of-advanced-detection-technology/
+- Products: XplorIR
+Nitrous oxide abuse is dangerously rising in popularity. Learn how XplorIR provides rapid identification of N₂O for emergency responders.
+
+
+- Published: 2025-03-14
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/explosive-detection-system/
+- Products: MX908
+Learn how rapid explosive detection systems are a testament to the power of technology in enhancing public safety.
+
+
+- Published: 2025-03-05
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/border-security-the-locard-exchange-principle-and-trace-detection/
+- Products: MX908, ProtectIR, ThreatID
+Explore how border security uses the advanced technologies of MX908, ThreatID, and ProtectIR to identify drugs from trace to bulk amounts.
+
+
+- Published: 2025-02-26
+- Modified: 2025-10-29
+- URL: https://908devices.com/blog/btmps-a-growing-concern-in-illicit-fentanyl-adulteration/
+- Products: MX908
+Fentanyl emerges more lethal through the latest trend of mixing the drug with industrial chemical, BTMPS. Learn about the latest detection methods from 908 Devices to combat this rapidly evolving threat.
+
+
+- Published: 2025-02-18
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/the-nitazene-crisis-by-the-numbers/
+- Products: MX908
+New data reveals critical gaps in public awareness about nitazenes, a highly potent and addictive class of drugs that are stronger than fentanyl. Learn how MX908 aids responders in this looming crisis.
+
+
+- Published: 2025-02-11
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/the-de-minimis-exemption-and-illicit-fentanyl-shipments/
+- Products: MX908
+A United States customs law provision has inadvertently facilitated fentanyl smuggling into the country. Discover how the MX908 is a valuable inspection tool for detecting this illicit substance, even at trace levels.
+
+
+- Published: 2025-02-05
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/la-wildfires-airborne-chemicals-can-threaten-air-quality/
+- Products: XplorIR
+Learn how XplorIR rapidly identifies toxic airborne chemicals that can threaten the health of first responders and the public.
+
+
+- Published: 2025-01-10
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/fentanyl-analog-classifier-how-the-mx908-keeps-pace-with-fentanyl-analogs/
+- Products: MX908
+Learn how MX908 detects over 2,000 fentanyl analogs, while staying ahead of the evolving synthetic opioid epidemic.
+
+
+- Published: 2024-12-04
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/nitazenes-understanding-the-next-threat-in-the-opioid-crisis/
+- Products: MX908
+Extremely potent synthetic opioids called Nitazenes are a serious new threat in the opioid crisis. Learn how advanced detection technologies like MX908 are essential for law enforcement to quickly identify and mitigate this growing danger.
+
+
+- Published: 2024-11-15
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/from-national-conventions-to-election-mail-screening-how-our-customers-mitigate-public-safety-threats/
+- Products: MX908, InterceptIR
+908 Devices provides advanced chemical detection technology to enhance public safety at high-risk events. Learn how our solutions are used for real-time threat monitoring at events like political conventions, large races, and election mail screenings.
+
+
+- Published: 2024-11-07
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/handheld-gas-detection/
+- Products: XplorIR
+Learn more about handheld gas detection, and how our advanced technology can identify and quantify thousands of unknown chemicals and vapors in seconds.
+
+
+- Published: 2024-10-21
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/the-evolution-and-innovation-of-ftir-a-qa-with-ftir-expert-dr-dave-schiering/
+- Products: XplorIR, ProtectIR, ThreatID
+As the former managing partner and Chief Technology Officer of RedWave Technology and – following an acquisition -- the current 908 Devices Fellow, we sat down with Dr. Dave Schiering to discuss his perspective on the progression of FTIR technology through the decades, and his vision for its future.
+
+
+- Published: 2024-09-16
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/responding-to-a-meth-lab-explosion-experience-with-advanced-gas-detection-technology/
+- Products: XplorIR
+Learn about the current challenges in responding to a meth lab explosion and how XplorIR solves this problem through gas identification and quantification.
+
+
+- Published: 2024-09-09
+- Modified: 2026-06-10
+- URL: https://908devices.com/blog/how-a-stolen-threatid-helped-law-enforcement-bust-a-drug-dealer/
+- Products: ThreatID
+Discover how a stolen ThreatID FTIR device unintentionally assisted law enforcement in catching a local drug dealer.
+
+
+- Published: 2024-08-14
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/hazmat-team-tackles-vocs-incident/
+- Products: XplorIR
+A hazmat team used the XplorIR to identify volatile organic compounds (VOCs), ensuring safe reconnaissance and expediting scene resolution.
+
+
+- Published: 2024-08-09
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/chemical-identification/
+- Products: MX908
+Identify and analyze chemical threats using a handheld mass spectrometer. Rapid results at your fingertips.
+
+
+- Published: 2024-08-07
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/pink-cocaine-truth-behind-tusi-and-its-dangerous-mixture/
+- Products: MX908
+Learn about Tusi, known as "pink cocaine," and see how MX908’s advanced identification methods effectively address this synthetic opioid.
+
+
+- Published: 2024-07-09
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/customers-fuel-our-organization-meet-the-team/
+- Products: MX908
+Our customers fuel our organization to provide technology for mission completion and safety, delivering the best customer experiences.
+
+
+- Published: 2024-05-06
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/demystifying-the-opioid-crisis/
+- Products: MX908
+The opioid crisis has continued to evolve over the years, and limited knowledge of emerging drugs among respondents calls for more educational programs to help mitigate the impact of the opioid crisis.
+
+
+- Published: 2024-04-15
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/drugs-identified-customs-applications/
+- Products: MX908
+Customs was warned about the use of 3D printed objects to conceal drugs. With the MX908, they were able to quickly identify drug substances present.
+
+
+- Published: 2024-04-08
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/chemical-identification-eod-applications/
+- Products: MX908
+Understanding chemical identification is essential for EOD teams due to the increasing number of chemical threats from explosive devices.
+
+
+- Published: 2024-04-02
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/mx908-software-release-v3-5/
+- Products: MX908
+MX908 latest software release offers five additional drug targets for the MX908 target list. This includes the addition of three synthetic cannabinoids, a synthetic cathinone, and a nitazene, a highly potent synthetic opioid.
+
+
+- Published: 2024-03-19
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/customs-applications-illegal-drug-smuggling/
+- Products: MX908
+Customs strives to enhance security measures as illicit drug trade and illegal drug smuggling traffickers pose significant challenges to law enforcement.
+
+
+- Published: 2024-03-13
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/grant-application-process/
+- Products: MX908, XplorIR, ProtectIR, ThreatID, InterceptIR
+Explore the steps and considerations for law enforcement agencies looking to obtain grant funding.
+
+
+- Published: 2024-02-27
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/eu-drugdetect/
+- Products: MX908
+Learn about the EU DrugDetect project, that aims to provide innovative solutions, such as the MX908, to prevent drugs from entering European correctional facilities.
+
+
+- Published: 2024-01-10
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/emerging-drug-trends/
+- Products: MX908
+Staying ahead of dangerous drug trends and threats is crucial. To combat these drug trends and threats effectively, it is important to deploy technologies, such as MX908, which can swiftly identify drugs.
+
+
+- Published: 2023-12-01
+- Modified: 2025-12-02
+- URL: https://908devices.com/blog/mx908beacon-astors-homeland-security-award/
+- Products: MX908
+908 Devices was awarded the 2023 Gold ‘ASTORS’ Homeland Security Award from American Security Today (AST) for its MX908 Beacon for Best CBRNe Detection solution.
+
+
+- Published: 2023-11-21
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/fentanyl-powder-in-mail-psa/
+- Products: MX908
+Protect yourself by reading these tips before attempting to open suspiciously marked envelopes or packages that may contain white powders.
+
+
+- Published: 2023-06-15
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/why-illegal-marijuana-farming-is-wreaking-havoc-on-our-environment/
+- Products: MX908
+Discover the hidden environmental crisis of illegal marijuana farming. Learn about the ecological damage, toxic pesticides, and public safety risks.
+
+
+- Published: 2023-04-25
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/understanding-public-perception-of-xylazine-and-synthetic-opioids/
+- Products: MX908
+In an attempt to better analyze the public perception of xylazine and synthetic opioids, we surveyed 1,000 U.S. consumers to gauge how informed they are. What we learned is this is not a traditional addiction issue. Read more.
+
+
+- Published: 2023-04-10
+- Modified: 2026-02-20
+- URL: https://908devices.com/blog/mx908-identification-of-fentanyl-xylazine-mixtures/
+- Products: MX908
+The MX908 provides coverage of low concentration mixtures of powerful synthetics such as xylazine and 2000+ fentanyl analogs in cutting agents or other, more common, drugs to provide investigators with an important tool to meets today’s counter-drug challenges.
+
+
+- Published: 2023-02-08
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/announcing-the-3-4-software-update-new-target-release/
+- Products: MX908
+SW v3.4 will include three new drug targets and one new explosives target.
+
+
+- Published: 2022-07-18
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/mx908-3-3-software-update/
+- Products: MX908
+We just released 3 new targets including a fentanyl analog, cannabinoid and precursor.
+
+
+- Published: 2022-01-31
+- Modified: 2026-01-26
+- URL: https://908devices.com/blog/new-target-update-preparing-for-the-next-in-synthetic-opioid-trends-nitazenes/
+- Products: MX908
+MX908 adds a new synthetic opioid, nitazines, to its drug target list, aiding responders against evolving threats.
+
+
+- Published: 2021-12-14
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/one-pill-can-kill-current-and-emerging-drug-threats/
+- Products: MX908
+908 Devices equips first responders with tools to identify dangerous drugs, a crucial need given the surge in fentanyl-laced counterfeit pills.
+
+
+- Published: 2021-11-08
+- Modified: 2026-03-16
+- URL: https://908devices.com/blog/one-pill-can-kill-mx908-and-counterfeit-pills/
+- Products: MX908
+The DEA has issued a public safety alert warning against a sharp increase in counterfeit pill overdoses in the US. The MX908 excels at identifying such pills.
+
+
+- Published: 2021-11-03
+- Modified: 2026-01-28
+- URL: https://908devices.com/blog/the-impact-and-rising-dangers-of-the-opioid-epidemic/
+- Products: MX908
+The opioid epidemic's current wave is fueled by potent synthetic opioids that are significantly increasing in danger. Learn how the MX908 addresses this crisis.
+
+
+- Published: 2021-08-25
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/feature-release-more-of-the-right-targets/
+- Products: MX908
+An MX908 target list update has been released, adding critical targets for evolving drug, explosive, and chemical threats.
+
+
+- Published: 2021-04-29
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/see-the-unseen-trace-chemical-detection-in-the-field/
+- Products: MX908
+The MX908 provides instant trace chemical detection of narcotics in the field, enabling stronger evidence for investigations & warrants.
+
+
+- Published: 2021-04-01
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/beyond-bulk-trace-detection-of-fentanyl-in-the-field/
+- Products: MX908
+The MX908 keeps first responders safe by rapidly identifying unknown substance traces, including fentanyl and synthetic opioids.
+
+
+> Follow 908 Devices' inspiring journey to becoming a public company. Learn about the company's mission to revolutionize mass spec.
+
+- Published: 2020-12-18
+- Modified: 2025-07-29
+- URL: https://908devices.com/blog/the-road-to-ipo/
+Follow 908 Devices' inspiring journey to becoming a public company. Learn about the company's mission to revolutionize mass spectrometry.
+
+
+> 908 Devices welcomes the 908th customer. Learn how MX908 is enhancing their capabilities in hazardous chemical threat detection.
+
+- Published: 2020-09-08
+- Modified: 2025-07-29
+- URL: https://908devices.com/blog/our-908th-customer/
+- Products: MX908
+908 Devices welcomes the 908th customer. Learn how MX908 is enhancing their capabilities in hazardous material detection and response.
+
+
+- Published: 2017-03-15
+- Modified: 2025-10-23
+- URL: https://908devices.com/blog/qa-john-kenneweg-changing-threat-landscape/
+The evolving threat landscape for CBRNE, narcotics, and explosives drives demand for advanced technology for first responders.
+
+
+> Explore the growing demand for instant access to data and how 908 Devices is transforming mass spectrometry with portable solutions.
+
+- Published: 2014-09-30
+- Modified: 2025-07-29
+- URL: https://908devices.com/blog/r-i-p-delayed-gratification/
+- Products: MX908
+Explore the growing demand for instant access to data and how 908 Devices is transforming mass spectrometry with on-demand, portable solutions.
+
+
+
+
+## News
+
+- Published: 2026-09-01
+- Modified: 2026-09-01
+- URL: https://908devices.com/news/908-devices-to-present-at-the-32nd-annual-gabelli-aerospace-defense-symposium/
+
+- Published: 2026-08-12
+- Modified: 2026-08-12
+- URL: https://908devices.com/news/908-devices-to-present-at-the-17th-annual-midwest-ideas-investor-conference/
+
+- Published: 2026-08-11
+- Modified: 2026-08-11
+- URL: https://908devices.com/news/908-devices-reports-second-quarter-2026-financial-results-and-raises-low-end-of-2026-revenue-outlook/
+
+- Published: 2026-07-29
+- Modified: 2026-07-29
+- URL: https://908devices.com/news/908-devices-to-participate-in-the-canaccord-genuity-46th-annual-growth-conference/
+
+- Published: 2026-07-28
+- Modified: 2026-07-28
+- URL: https://908devices.com/news/908-devices-to-report-second-quarter-2026-financial-results-on-august-11-2026/
+
+- Published: 2026-06-02
+- Modified: 2026-06-02
+- URL: https://908devices.com/news/908-devices-announces-inducement-grants-under-nasdaq-listing-rule-5635c4/
+
+- Published: 2026-05-28
+- Modified: 2026-05-28
+- URL: https://908devices.com/news/908-devices-to-present-at-the-16th-annual-east-coast-ideas-investor-conference/
+
+- Published: 2026-05-06
+- Modified: 2026-05-06
+- URL: https://908devices.com/news/908-devices-reports-first-quarter-2026-financial-results-and-raises-2026-revenue-outlook/
+
+- Published: 2026-05-06
+- Modified: 2026-05-06
+- URL: https://908devices.com/news/908-devices-acquires-nirlab-ag-expanding-its-narcotics-detection-portfolio/
+
+- Published: 2026-05-01
+- Modified: 2026-05-01
+- URL: https://908devices.com/news/908-devices-to-report-first-quarter-2026-financial-results-on-may-6-2026/
+
+- Published: 2026-04-21
+- Modified: 2026-04-21
+- URL: https://908devices.com/news/908-devices-appoints-kola-otitoju-as-chief-business-strategy-officer-and-announces-an-inducement-grant-under-nasdaq-listing-rule-5635c4/
+
+- Published: 2026-03-16
+- Modified: 2026-03-16
+- URL: https://908devices.com/news/908-devices-to-present-at-the-sidoti-small-cap-conference/
+
+- Published: 2026-03-03
+- Modified: 2026-03-03
+- URL: https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2025-financial-results-and-provides-2026-revenue-outlook/
+
+- Published: 2026-02-24
+- Modified: 2026-03-16
+- URL: https://908devices.com/news/908-devices-to-participate-in-investor-conferences-in-march/
+
+- Published: 2026-02-17
+- Modified: 2026-02-17
+- URL: https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2025-financial-results-on-march-3-2026/
+
+- Published: 2026-02-05
+- Modified: 2026-02-05
+- URL: https://908devices.com/news/908-devices-enhances-mx908-usability-and-adds-new-drug-targets/
+
+- Published: 2026-01-20
+- Modified: 2026-01-20
+- URL: https://908devices.com/news/908-devices-announces-strong-preliminary-financial-results-for-fourth-quarter-and-full-year-2025/
+
+- Published: 2025-11-10
+- Modified: 2025-11-17
+- URL: https://908devices.com/news/908-devices-reports-third-quarter-2025-financial-results-and-reiterates-2025-revenue-outlook/
+
+- Published: 2025-10-30
+- Modified: 2026-07-24
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-7/
+
+- Published: 2025-10-30
+- Modified: 2026-02-19
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-nov-2025/
+
+- Published: 2025-10-28
+- Modified: 2025-11-17
+- URL: https://908devices.com/news/united-states-coast-guard-purchases-908-devices-handheld-mass-spec-devices-for-chemical-threat-identification/
+
+- Published: 2025-10-22
+- Modified: 2025-11-17
+- URL: https://908devices.com/news/908-devices-to-report-third-quarter-2025-financial-results-on-november-10-2025/
+
+- Published: 2025-10-16
+- Modified: 2025-11-17
+- URL: https://908devices.com/news/united-states-marine-corps-purchases-908-devices-xplorir-gas-identification-devices/
+
+- Published: 2025-08-05
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-reports-second-quarter-2025-financial-results-and-raises-2025-revenue-outlook/
+
+- Published: 2025-08-04
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-appoints-dr-brandi-vann-former-u-s-principal-deputy-assistant-secretary-for-nuclear-chemical-and-biological-defense-to-its-board-of-directors/
+
+- Published: 2025-07-29
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-to-participate-in-the-canaccord-genuity-45th-annual-growth-conference/
+
+- Published: 2025-07-22
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-to-report-second-quarter-2025-financial-results-on-august-5-2025/
+
+- Published: 2025-07-08
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-launches-vipir-a-3-in-1-handheld-analyzer-for-field-based-chemical-identification-of-unknown-bulk-substances/
+
+- Published: 2025-06-16
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-appoints-christopher-d-brown-to-its-board-of-directors/
+
+- Published: 2025-06-03
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/metropolitan-washington-council-of-governments-adds-908-devices-xplorir-to-its-hazardous-materials-response-toolkit/
+
+- Published: 2025-05-28
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/romanian-customs-authority-adopts-908-devices-mx908-for-border-security-operations/
+
+- Published: 2025-05-22
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-to-participate-in-the-william-blair-45th-annual-growth-stock-conference/
+
+- Published: 2025-05-13
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-reports-first-quarter-2025-financial-results-and-reiterates-2025-revenue-outlook/
+
+- Published: 2025-04-30
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-equips-resceu-disaster-preparedness-reserve-with-advanced-chemical-detection/
+
+- Published: 2025-04-22
+- Modified: 2025-08-14
+- URL: https://908devices.com/news/908-devices-receives-2m-order-from-the-texas-department-of-public-safety-for-drug-detection-and-mitigation/
+
+> 908 Devices reports preliminary first-quarter 2025 revenue of at least $11.5 million, marking a 55% year-over-year increase.
+
+- Published: 2025-04-15
+- Modified: 2025-04-28
+- URL: https://908devices.com/news/908-devices-announces-preliminary-first-quarter-2025-financial-results/
+
+> Repligen Corporation has acquired 908 Devices' desktop bioprocessing portfolio, enhancing its process analytical technology (PAT) offerings.
+
+- Published: 2025-03-04
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/repligen-purchases-bioprocessing-analytics-portfolio-from-908-devices/
+
+> 908 Devices announces a strategic transformation and strong 2024 financials, including a 19% revenue increase and divestiture of desktop assets.
+
+- Published: 2025-03-04
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/908-devices-announces-strategic-transformation-and-reports-fourth-quarter-and-full-year-2024-financial-results/
+
+> 908 Devices will report its fourth quarter and full-year 2024 financial results on March 4, 2025, before market open.
+
+- Published: 2025-03-03
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2024-financial-results-on-march-4-2025/
+
+- Published: 2025-03-03
+- Modified: 2026-02-19
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-march-2025/
+
+> See preliminary unaudited financial results for Q4 and full-year 2024, highlighting 31% year-over-year revenue growth in Q4 and a 19% increase for the year.
+
+- Published: 2025-01-14
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/908-devices-announces-preliminary-fourth-quarter-and-full-year-2024-financial-results/
+
+> 908 Devices and Getinge have partnered to integrate MAVEN with Getinge’s bioreactors, enabling real-time monitoring of glucose and lactate.
+
+- Published: 2024-12-19
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/getinge-and-908-devices-partner-to-enhance-bioreactor-capabilities-for-continuous-monitoring-of-key-cell-culture-parameters/
+
+> 908 Devices reports Q3 2024 revenue of $16.8 million, a 17% year-over-year increase, driven by handheld product sales.
+
+- Published: 2024-11-12
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/908-devices-reports-third-quarter-2024-financial-results-and-updates-2024-revenue-outlook/
+
+- Published: 2024-11-04
+- Modified: 2026-02-19
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-8/
+
+> 908 Devices will report third-quarter 2024 financial results on November 12, 2024, before market open.
+
+- Published: 2024-10-22
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/908-devices-to-report-third-quarter-2024-financial-results-on-november-12-2024/
+
+> 908 Devices will participate in the virtual Craig-Hallum Bioprocessing Conference on September 19, 2024.
+
+- Published: 2024-09-06
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/908-devices-to-participate-in-craig-hallum-bioprocessing-conference/
+
+- Published: 2024-08-06
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-reports-second-quarter-2024-financial-results-and-reiterates-2024-revenue-outlook/
+
+- Published: 2024-07-30
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-to-participate-in-canaccord-genuity-44th-annual-growth-conference/
+
+- Published: 2024-07-23
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-to-report-second-quarter-2024-financial-results-on-august-6-2024/
+
+- Published: 2024-06-25
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-appoints-michele-m-leonhart-former-administrator-of-the-united-states-drug-enforcement-administration-dea-to-its-board-of-directors/
+
+- Published: 2024-06-18
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-enhances-xplorir-portable-analyzer-to-simultaneously-identify-and-quantify-hazardous-gases-and-vapors/
+
+- Published: 2024-05-15
+- Modified: 2026-07-24
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-may-2024/
+
+- Published: 2024-04-30
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-reports-first-quarter-2024-financial-results-and-updates-2024-revenue-outlook/
+
+- Published: 2024-04-30
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-acquires-redwave-technology-expanding-its-forensics-product-offering/
+
+- Published: 2024-04-23
+- Modified: 2025-08-28
+- URL: https://908devices.com/news/908-devices-to-report-first-quarter-2024-financial-results-on-april-30-2024/
+
+- Published: 2024-03-12
+- Modified: 2026-01-28
+- URL: https://908devices.com/news/908-devices-trace-chemical-identification-technology-adopted-by-european-agencies/
+
+> Fourth quarter 2023 revenue increased 23% compared to prior year, driven by handheld revenue increasing 57% BOSTON--(BUSINESS WIRE)-- 908 Devices Inc.
+
+- Published: 2024-03-05
+- Modified: 2024-03-26
+- URL: https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2023-financial-results-and-provides-2024-revenue-outlook/
+
+> 908 Devices and Cellares have partnered to integrate in-line monitoring of bioprocess parameters into Cellares’ Cell Shuttle platform.
+
+- Published: 2024-02-29
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/908-devices-cellares-integrate-in-line-monitoring-of-bioprocess-parameters/
+
+- Published: 2024-02-22
+- Modified: 2026-02-19
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-6/
+
+> BOSTON--(BUSINESS WIRE)-- 908 Devices Inc. (Nasdaq: MASS), a pioneer of handheld and desktop devices for chemical and biochemical analysis, today
+
+- Published: 2024-02-20
+- Modified: 2024-03-26
+- URL: https://908devices.com/news/908-devices-announces-fourth-quarter-full-year-2023-financial-results/
+
+> 908 Devices Announces MX908 Integration Capabilities
+
+- Published: 2023-11-14
+- Modified: 2023-11-14
+- URL: https://908devices.com/news/908-devices-announces-mx908-integration-capabilities/
+
+> BOSTON--(BUSINESS WIRE)-- 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld and desktop devices for chemical and biochemical analysis,
+
+- Published: 2023-11-07
+- Modified: 2024-03-26
+- URL: https://908devices.com/news/908-devices-reports-third-quarter-2023-financial-results-and-narrows-2023-revenue-outlook/
+
+> Automation combined with on-line monitoring during the cell expansion step can bring cell therapy manufacturing efficiencies and enable increased patient
+
+- Published: 2023-11-06
+- Modified: 2024-03-26
+- URL: https://908devices.com/news/908-devices-and-terumo-blood-and-cell-technologies-collaborate-to-add-on-line-analytics-to-quantum-flex-cell-expansion-system/
+
+- Published: 2023-10-31
+- Modified: 2026-02-19
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-5/
+
+> 908 Devices secures $10.4M order for MX908 devices from US Air Force, enhancing aerosol threat detection at 130+ installations.
+
+- Published: 2023-10-24
+- Modified: 2024-03-27
+- URL: https://908devices.com/news/908-devices-awarded-10-4m-order-from-the-united-states-air-force-for-its-handheld-mx908-device/
+
+> BOSTON, October 24, 2023 – 908 Devices Inc., (Nasdaq: MASS)&nbsp;a pioneer of handheld and desktop devices for chemical and biochemical analysis, today
+
+- Published: 2023-10-24
+- Modified: 2024-03-26
+- URL: https://908devices.com/news/908-devices-to-report-third-quarter-financial-results-on-november-7-2023/
+
+> 908 Devices Launches MAVERICK for Real-Time In-Line Monitoring of Multiple Bioprocess Parameters
+
+- Published: 2023-09-18
+- Modified: 2023-09-18
+- URL: https://908devices.com/news/908-devices-launches-maverick-for-real-time-in-line-monitoring-of-multiple-bioprocess-parameters/
+
+> 908 Devices Reports Second Quarter 2023 Financial Results and Updates 2023 Revenue Outlook
+
+- Published: 2023-08-08
+- Modified: 2023-08-08
+- URL: https://908devices.com/news/908-devices-reports-second-quarter-2023-financial-results-and-updates-2023-revenue-outlook/
+
+> 908 Devices to Report Second Quarter Financial Results on August 8, 2023
+
+- Published: 2023-07-25
+- Modified: 2023-07-25
+- URL: https://908devices.com/news/908-devices-to-report-second-quarter-financial-results-on-august-8-2023/
+
+> 908 Devices to Participate in the William Blair 43rd Annual Growth Stock Conference
+
+- Published: 2023-05-23
+- Modified: 2023-05-23
+- URL: https://908devices.com/news/908-devices-to-participate-in-the-william-blair-43rd-annual-growth-stock-conference/
+
+> 908 Devices Reports First Quarter 2023 Financial Results and Reiterates 2023 Revenue Outlook
+
+- Published: 2023-05-09
+- Modified: 2023-05-09
+- URL: https://908devices.com/news/908-devices-reports-first-quarter-2023-financial-results-and-reiterates-2023-revenue-outlook/
+
+> Resilience has adopted 908 Devices' REBEL at-line analyzer to enhance perfusion bioreactor processes.
+
+- Published: 2023-04-26
+- Modified: 2025-04-18
+- URL: https://908devices.com/news/resilience-demonstrates-lower-cost-of-perfusion-bioreactor-process-using-908-devices-rebel-at-line-analyzer/
+
+> 908 Devices to Report First Quarter Financial Results on May 9, 2023
+
+- Published: 2023-04-25
+- Modified: 2023-04-25
+- URL: https://908devices.com/news/908-devices-to-report-first-quarter-financial-results-on-may-9-2023/
+
+> 908 Devices Reports Fourth Quarter and Full Year 2022 Financial Results and Provides 2023 Revenue Outlook
+
+- Published: 2023-03-07
+- Modified: 2023-03-07
+- URL: https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2022-financial-results-and-provides-2023-revenue-outlook/
+
+> 908 Devices to Participate in the Cowen 43rd Annual Healthcare Conference
+
+- Published: 2023-02-21
+- Modified: 2023-02-21
+- URL: https://908devices.com/news/908-devices-to-participate-in-the-cowen-43rd-annual-healthcare-conference/
+
+> 908 Devices to Report Fourth Quarter and Full Year 2022 Financial Results on March 7, 2023
+
+- Published: 2023-02-14
+- Modified: 2023-02-14
+- URL: https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2022-financial-results-on-march-7-2023/
+
+> 908 Devices Unveils New Glucose and Lactate On-Line Device for Bioprocess Monitoring and Control
+
+- Published: 2023-01-17
+- Modified: 2023-01-17
+- URL: https://908devices.com/news/908-devices-unveils-new-glucose-and-lactate-on-line-device-for-bioprocess-monitoring-and-control/
+
+> Customers, including the Minnesota Department of Corrections, are leveraging the MX908 handheld device to keep correctional officers and inmates safe from
+
+- Published: 2022-12-07
+- Modified: 2024-03-26
+- URL: https://908devices.com/news/mx908-device-enables-correctional-facility-personnel-to-quickly-identify-illegal-drugs-in-incoming-mail/
+
+> 908 Devices Reports Third Quarter 2022 Financial Results and Updates Full Year 2022 Outlook
+
+- Published: 2022-11-14
+- Modified: 2022-11-14
+- URL: https://908devices.com/news/908-devices-reports-third-quarter-2022-financial-results-and-updates-full-year-2022-outlook/
+
+> 908 Devices Records Strong Momentum in Life Sciences Sector
+
+- Published: 2022-11-10
+- Modified: 2022-11-10
+- URL: https://908devices.com/news/908-devices-records-strong-momentum-in-life-sciences-sector/
+
+> 908 Devices Launches Pesticide Identification Capability to Thwart Illegal Marijuana Growing Operations
+
+- Published: 2022-11-09
+- Modified: 2022-11-09
+- URL: https://908devices.com/news/908-devices-launches-pesticide-identification-capability-to-thwart-illegal-marijuana-growing-operations/
+
+- Published: 2022-11-02
+- Modified: 2026-02-19
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-4/
+
+> 908 Devices to Report Third Quarter 2022 Financial Results on November 14, 2022
+
+- Published: 2022-10-19
+- Modified: 2022-10-19
+- URL: https://908devices.com/news/908-devices-to-report-third-quarter-2022-financial-results-on-november-14-2022/
+
+> 908 Devices and CPI Improve mAbs Cell Culture Outcomes Using At-line Media Analysis
+
+- Published: 2022-10-12
+- Modified: 2022-10-12
+- URL: https://908devices.com/news/908-devices-and-cpi-improve-mabs-cell-culture-outcomes-using-at-line-media-analysis/
+
+> 908 Devices Acquires TRACE Analytics, Enabling On-line Bioanalytics
+
+- Published: 2022-08-09
+- Modified: 2022-08-09
+- URL: https://908devices.com/news/908-devices-acquires-trace-analytics-enabling-on-line-bioanalytics-2/
+
+> 908 Devices Reports Second Quarter 2022 Financial Results and Reiterates 2022 Revenue Outlook
+
+- Published: 2022-08-09
+- Modified: 2025-05-30
+- URL: https://908devices.com/news/908-devices-reports-second-quarter-2022-financial-results-and-reiterates-2022-revenue-outlook/
+
+> 908 Devices to Participate in the Canaccord Genuity 42nd Annual Growth Conference
+
+- Published: 2022-07-27
+- Modified: 2022-07-27
+- URL: https://908devices.com/news/908-devices-to-participate-in-the-canaccord-genuity-42nd-annual-growth-conference/
+
+> 908 Devices to Report Second Quarter 2022 Financial Results on August 9, 2022
+
+- Published: 2022-07-19
+- Modified: 2022-07-19
+- URL: https://908devices.com/news/908-devices-to-report-second-quarter-2022-financial-results-on-august-9-2022/
+
+> 908 Devices Showcases Technology for Accelerating Mass Spec Workflows in Presentations at ASMS
+
+- Published: 2022-06-02
+- Modified: 2022-06-02
+- URL: https://908devices.com/news/908-devices-showcases-technology-for-accelerating-mass-spec-workflows-in-presentations-at-asms/
+
+> 908 Devices to Participate in the William Blair 42nd Annual Growth Stock Conference
+
+- Published: 2022-05-26
+- Modified: 2022-05-26
+- URL: https://908devices.com/news/908-devices-to-participate-in-the-william-blair-42nd-annual-growth-stock-conference/
+
+> 908 Devices Reports First Quarter 2022 Financial Results and Reiterates 2022 Revenue Outlook
+
+- Published: 2022-05-10
+- Modified: 2022-05-10
+- URL: https://908devices.com/news/908-devices-reports-first-quarter-2022-financial-results-and-reiterates-2022-revenue-outlook/
+
+> 908 Devices Advances MX908 Handheld Device Capabilities
+
+- Published: 2022-05-09
+- Modified: 2022-05-09
+- URL: https://908devices.com/news/908-devices-advances-mx908-handheld-device-capabilities/
+
+> 908 Devices Partners with Key Biomanufacturing Innovation Center
+
+- Published: 2022-05-03
+- Modified: 2022-05-03
+- URL: https://908devices.com/news/908-devices-partners-with-key-biomanufacturing-innovation-center/
+
+> 908 Devices and CPI Team on Cell Culture Media Optimization for Improved Process Control in Bioprocessing Applications
+
+- Published: 2022-04-21
+- Modified: 2022-04-21
+- URL: https://908devices.com/news/908-devices-and-cpi-team-on-cell-culture-media-optimization-for-improved-process-control-in-bioprocessing-applications/
+
+> 908 Devices to Report First Quarter Financial Results on May 10, 2022
+
+- Published: 2022-04-12
+- Modified: 2022-04-12
+- URL: https://908devices.com/news/908-devices-to-report-first-quarter-financial-results-on-may-10-2022/
+
+> 908 Devices Reports Fourth Quarter and Full Year 2021 Financial Results and Provides 2022 Revenue Outlook
+
+- Published: 2022-03-07
+- Modified: 2025-05-30
+- URL: https://908devices.com/news/908-devices-reports-fourth-quarter-and-full-year-2021-financial-results-and-provides-2022-revenue-outlook/
+
+> 908 Devices Appoints Tony J. Hunt, President and CEO, Repligen, to its Board of Directors
+
+- Published: 2022-03-02
+- Modified: 2022-03-02
+- URL: https://908devices.com/news/908-devices-appoints-tony-j-hunt-president-and-ceo-repligen-to-its-board-of-directors-%ef%bf%bc/
+
+> 908 Devices to Report Fourth Quarter and Full Year 2021 Financial Results on March 7, 2022
+
+- Published: 2022-02-15
+- Modified: 2022-04-04
+- URL: https://908devices.com/news/908-devices-to-report-fourth-quarter-and-full-year-2021-financial-results-on-march-7-2022/
+
+- Published: 2022-02-08
+- Modified: 2026-02-19
+- URL: https://908devices.com/news/908-devices-to-participate-in-upcoming-investor-conferences-3/
+
+> 908 Devices Announces Preliminary Revenue for the Fourth Quarter and Full Year 2021
+
+- Published: 2022-01-09
+- Modified: 2025-05-30
+- URL: https://908devices.com/news/908-devices-announces-preliminary-revenue-for-the-fourth-quarter-and-full-year-2021/
+
+> 908 Devices Announces GSK Purchases Fifth REBEL Cell Culture Media Analyzer
+
+- Published: 2022-01-07
+- Modified: 2022-01-07
+- URL: https://908devices.com/news/908-devices-announces-gsk-purchases-fifth-rebel-cell-culture-media-analyzer/
+
+
+
+## Products
+
+- Published: 2026-06-05
+- Modified: 2026-08-25
+- URL: https://908devices.com/products/nirlab/
+NIRLab is a drug field test device that identifies and quantifies common drugs, and connects results to a real-time intelligence platform.
+
+
+- Published: 2025-06-13
+- Modified: 2026-08-14
+- URL: https://908devices.com/products/vipir/
+VipIR is a chemical analyzer, Raman spectrometer and FTIR device, that provides chemical analysis for customs and borders and hazmat teams.
+
+
+- Published: 2024-06-11
+- Modified: 2026-08-14
+- URL: https://908devices.com/products/interceptir/
+Remote chemical gas detector for integration on an unmanned system to safely monitor inaccessible environments.
+
+
+- Published: 2024-06-11
+- Modified: 2026-08-14
+- URL: https://908devices.com/products/protectir/
+Confidently identify and assess thousands of chemical threats anywhere with the compact, lightweight, handheld FTIR ProtectIR.
+
+
+- Published: 2024-06-11
+- Modified: 2026-08-14
+- URL: https://908devices.com/products/threatid/
+Portable FTIR chemical threat identification for thousands of complex mixtures for emergency and military responders.
+
+
+- Published: 2024-05-31
+- Modified: 2026-08-14
+- URL: https://908devices.com/products/xplorir/
+Handheld gas detector that can accurately detect and identify thousands of unknown chemicals and vapors in seconds.
+
+
+- Published: 2021-08-12
+- Modified: 2026-08-14
+- URL: https://908devices.com/products/mx908/
+MX908 is a handheld mass spectrometer used by first responders for rapid trace-level chemical identification of narcotics, hazardous materials, and explosives.
+
+
+
+
+## Applications
+
+- Published: 2026-04-17
+- Modified: 2026-08-17
+- URL: https://908devices.com/applications/defense/
+- Products: MX908, XplorIR, VipIR, ProtectIR, ThreatID, InterceptIR
+Identify explosives, nerve agents, novichoks, and PBAs for combat operations in military and defense applications.
+
+
+- Published: 2025-10-20
+- Modified: 2026-07-31
+- URL: https://908devices.com/applications/chemical-detection/area-monitoring/
+- Products: MX908, XplorIR, VipIR, ProtectIR, ThreatID, InterceptIR
+Chemical detection and hazmat identification devices deliver excellent selectivity of hazardous materials, toxic industrial chemicals & more.
+
+
+- Published: 2025-06-06
+- Modified: 2025-12-04
+- URL: https://908devices.com/applications/correctional-facilities/
+- Products: MX908
+MX908 rugged, hand-held, mass spectrometer, is utilized for drug identification in correctional facilities and prisons.
+
+
+- Published: 2025-01-21
+- Modified: 2026-07-24
+- URL: https://908devices.com/applications/customs-and-borders/
+- Products: MX908, ProtectIR, ThreatID
+Detect and identify unknown and illicit chemical substances, at bulk and trace-levels, to safeguard customs and borders.
+
+
+- Published: 2022-08-18
+- Modified: 2026-02-02
+- URL: https://908devices.com/applications/chemical-detection/pesticides/
+- Products: MX908
+Pesticide detection and identification of hazardous and toxic materials commonly found at illegal grow sites.
+
+
+- Published: 2021-08-16
+- Modified: 2026-09-01
+- URL: https://908devices.com/applications/narcotics-detection/
+- Products: MX908
+The MX908 handheld mass spectrometer is a drug detector that identifies a broad range of narcotics at invisible, trace levels, in seconds.
+
+
+- Published: 2021-08-13
+- Modified: 2026-07-31
+- URL: https://908devices.com/applications/chemical-detection/
+- Products: MX908, XplorIR, VipIR, ProtectIR, ThreatID, InterceptIR
+Chemical detection and hazmat identification devices deliver excellent selectivity of hazardous materials, toxic industrial chemicals & more.
+
+
+
+
+## Resource Hub
+
+- Published: 2026-09-01
+- Modified: 2026-09-01
+- URL: https://908devices.com/resource/beyond-color-tests-nir-narcotics-identification/
+- Applications: Narcotics
+- Products: NIRLab
+- Resource Type: White Papers
+Learn how NIR narcotics identification can help law enforcement move beyond color tests with specific drug ID, purity data, and defensible reporting.
+
+
+- Published: 2026-08-03
+- Modified: 2026-08-03
+- URL: https://908devices.com/resource/near-infrared-spectroscopy-for-field-narcotics-identification/
+- Applications: Narcotics
+- Products: NIRLab
+- Resource Type: White Papers
+See how NIRLab performs on real narcotics evidence. Download the white paper comparing NIR vs Raman spectroscopy for field drug identification.
+
+
+- Published: 2026-07-07
+- Modified: 2026-07-07
+- URL: https://908devices.com/resource/reducing-uncertainty-in-chemical-id-in-hazmat-incidents/
+- Applications: Fire and Hazmat
+- Products: VipIR
+- Resource Type: Application Notes & Snapshots
+VipIR simplifies chemical identification in hazmat incidents by combining FTIR and Raman into one device, delivering a single high-confidence result with no conflicting readings.
+
+
+- Published: 2026-06-18
+- Modified: 2026-07-29
+- URL: https://908devices.com/resource/quantify-everyday-drug-encounters/
+- Applications: Customs and Borders, Narcotics
+- Products: NIRLab
+- Resource Type: Brochures & Flyers
+NIRLab is the only NIR narcotics analyzer that identifies major drugs, quantifies purity, and measures THC concentration with results in under 5 seconds.
+
+
+- Published: 2026-06-18
+- Modified: 2026-06-18
+- URL: https://908devices.com/resource/nirlab-field-narcotics-intelligence/
+- Applications: Customs and Borders, Narcotics
+- Products: NIRLab
+- Resource Type: Brochures & Flyers
+NIRLab Field Narcotics Intelligence turns purity data into command-level drug market signals—tracking supply shifts, trafficking corridors, and emerging threats in real time.
+
+
+- Published: 2026-06-18
+- Modified: 2026-06-18
+- URL: https://908devices.com/resource/nirlab-specification-sheet/
+- Applications: Customs and Borders, Narcotics
+- Products: NIRLab
+- Resource Type: Specification Sheets
+Learn about the features and performance of NIRLab, a portable near-infrared spectroscopy (NIR) for cannabis potency testing and common drug analysis.
+
+
+- Published: 2026-05-13
+- Modified: 2026-05-13
+- URL: https://908devices.com/resource/operation-free-virginias-corrections-led-overdose-reduction-strategy/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+Learn how Virginia eliminated fentanyl overdose deaths in correctional facilities from 24 to zero. Watch Marcus Anderson reveal the strategies behind Operation Free — a proven blueprint for fentanyl prevention in correctional facilities.
+
+
+- Published: 2026-04-29
+- Modified: 2026-04-29
+- URL: https://908devices.com/resource/protecting-crowded-places-from-chemical-threats/
+- Applications: Fire and Hazmat
+- Products: MX908, XplorIR
+- Resource Type: Webinars On Demand
+Watch the recording now and leave with a scalable plan to prepare, train, equip, and fund chemical threat readiness in crowded places — without straining your resources or slowing public life.
+
+
+- Published: 2026-04-13
+- Modified: 2026-08-11
+- URL: https://908devices.com/resource/pbas-are-a-wmd-threat/
+- Applications: Defense, Fire and Hazmat
+- Products: MX908
+- Resource Type: White Papers
+Aerosolized PBA detection is critical to address WMD threats posed by synthetic opioids. Learn why proven COTS technologies are essential.
+
+
+- Published: 2026-04-03
+- Modified: 2026-04-03
+- URL: https://908devices.com/resource/your-pid-and-multi-gas-meter-werent-replaced-just-enhanced/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: White Papers
+Improve hazmat decision-making with the gas identification technology of XplorIR to enhance your PID and multi-gas meters. Quickly identify chemicals on-scene, close information gaps, and turn basic readings into actionable intelligence.
+
+
+- Published: 2026-03-23
+- Modified: 2026-03-23
+- URL: https://908devices.com/resource/smarter-chemical-screening-at-the-border/
+- Applications: Customs and Borders
+- Products: MX908, VipIR
+- Resource Type: Webinars On Demand
+Improve customs narcotics detection with integrated workflows that combine trace detection and bulk chemical verification for faster, high-confidence screening decisions.
+
+
+- Published: 2026-03-13
+- Modified: 2026-03-13
+- URL: https://908devices.com/resource/the-adaptive-cycle-of-synthetic-opioids/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: White Papers
+Discover how orphine opioids are reshaping the synthetic drug landscape. This white paper explains their emergence, detection challenges, operational risks, and the field‑intelligence tools agencies need to stay ahead of rapidly evolving opioid threats.
+
+
+- Published: 2026-02-27
+- Modified: 2026-02-27
+- URL: https://908devices.com/resource/decoding-fy26-changes-to-public-safety-grants/
+- Applications: Correctional Facilities, Fire and Hazmat, Narcotics
+- Products: MX908, XplorIR
+- Resource Type: Webinars On Demand
+Learn how FY26 public safety grants are changing—impacting funding, compliance, and approvals. Watch the on-demand webinar now.
+
+
+- Published: 2026-02-25
+- Modified: 2026-02-25
+- URL: https://908devices.com/resource/shedding-light-on-medetomidine-detection/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: White Papers
+Gain insight into how early medetomidine detection with MX908 enhances situational awareness by aligning field intelligence with forensic and public health reporting.
+
+
+- Published: 2026-02-25
+- Modified: 2026-02-25
+- URL: https://908devices.com/resource/making-the-unknown-known-in-hazmat/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: White Papers
+Discover how modern tools transform hazmat incident command by enabling faster gas identification, real‑time team coordination, and more defensible decision‑making in high‑pressure response scenarios.
+
+
+- Published: 2026-02-13
+- Modified: 2026-02-13
+- URL: https://908devices.com/resource/narcotics-interdiction-to-wmd-defense/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: White Papers
+This white paper covers an overview of how the 2025 fentanyl WMD designation and the closure of the de minimis loophole transform narcotics enforcement, requiring advanced detection capabilities and new national security–aligned operational standards.
+
+
+- Published: 2026-02-04
+- Modified: 2026-02-04
+- URL: https://908devices.com/resource/realtime-insights-through-reachback-data-review/
+- Applications: Narcotics
+- Products: MX908, ThreatID, VipIR
+- Resource Type: Webinars On Demand
+Explore how real‑time field detection and intelligence help agencies identify emerging street drug trends early and respond faster to evolving threats.
+
+
+- Published: 2025-12-18
+- Modified: 2026-04-24
+- URL: https://908devices.com/resource/rapid-chemical-spill-identification-with-protectir-ftir/
+- Applications: Fire and Hazmat
+- Products: ProtectIR
+- Resource Type: Case Studies
+ProtectIR enables rapid chemical spill identification, helping responders contain nitric acid safely and prevent environmental harm in Ukraine.
+
+
+- Published: 2025-12-10
+- Modified: 2026-02-04
+- URL: https://908devices.com/resource/from-emergence-to-response-mapping-substance-trends-across-intelligence-streams/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+Discover how to track and analyze emerging drug trends using multi-source intelligence, including online communities and forensic data, to stay ahead of new threats and improve field detection.
+
+
+- Published: 2025-11-24
+- Modified: 2025-11-24
+- URL: https://908devices.com/resource/why-correctional-facilities-are-moving-beyond-colorimetric-drug-tests/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Application Notes & Snapshots
+Learn why correctional facilities and jails are moving beyond unreliable colorimetric drug tests, adopting MX908 for rapid, accurate narcotics detection and improved safety
+
+
+- Published: 2025-11-24
+- Modified: 2026-08-10
+- URL: https://908devices.com/resource/mx908-helps-resolve-bolivia-mass-poisoning/
+- Applications: Defense, Fire and Hazmat
+- Products: MX908
+- Resource Type: Case Studies
+Discover how the MX908 portable spectrometer rapidly solved a dimethylphosphite poisoning case in Bolivia.
+
+
+- Published: 2025-11-07
+- Modified: 2025-11-07
+- URL: https://908devices.com/resource/narcotics-analyzer-for-identifying-drugs-in-jail/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Application Notes & Snapshots
+Discover how the MX908 handheld narcotics analyzer helps jails and correctional facilities rapidly detect trace-level drugs in mail and other contraband, enhancing safety and security.
+
+
+- Published: 2025-11-05
+- Modified: 2026-08-17
+- URL: https://908devices.com/resource/increase-confidence-and-safety-in-explosive-identification/
+- Applications: Customs and Borders, Defense, Fire and Hazmat
+- Products: VipIR
+- Resource Type: Application Notes & Snapshots
+Enhance explosive threat response with the VipIR Raman FTIR analyzer that delivers fast, high-confidence identification of unknown materials in the field. VipIR gives EOD teams faster, safer, and more reliable explosive identification in the field, eliminating multiple instruments and boosting decision-making confidence.
+
+
+- Published: 2025-11-05
+- Modified: 2025-11-05
+- URL: https://908devices.com/resource/the-impact-of-drug-case-delays-on-officer-morale/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Case Studies
+Drug case delays from overwhelmed forensic labs slow investigations and negatively impact officer morale, leaving officers frustrated as suspects often return to the community before results are available.
+
+
+- Published: 2025-10-17
+- Modified: 2025-11-05
+- URL: https://908devices.com/resource/leveraging-mx908-in-overdose-investigations/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Case Studies
+The MX908 provides rapid, on-site chemical identification that enhances safety and accelerates evidence gathering during overdose investigations.
+
+
+- Published: 2025-10-15
+- Modified: 2025-10-15
+- URL: https://908devices.com/resource/elevate-your-pid-with-xplorir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Pairing a PID with XplorIR enables responders to quickly and confidently detect, identify, and quantify hazardous gases and vapors—giving them a complete picture for faster, safer decision-making in the field.
+
+
+- Published: 2025-10-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/vipir-and-the-908-devices-toolbox/
+- Applications: Fire and Hazmat
+- Products: VipIR, XplorIR
+- Resource Type: Videos
+Discover how the latest chemical detection technology is transforming hazmat and emergency response. Learn about advanced tools like the VipIR, XplorIR, and Team Leader app that deliver faster, more confident chemical identification in the field.
+
+
+- Published: 2025-10-10
+- Modified: 2025-10-10
+- URL: https://908devices.com/resource/smartid-integrated-raman-ftir-ssp/
+- Applications: Customs and Borders, Fire and Hazmat
+- Products: VipIR
+- Resource Type: Tech Notes
+Discover how the VipIR SmartID workflow integrates Raman, FTIR, and Smart Spectral Processing to deliver fast, accurate, and safe field-based chemical identification.
+
+
+- Published: 2025-10-09
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/chemical-analyzers-for-hazmat/
+- Applications: Fire and Hazmat
+- Products: MX908, ProtectIR, ThreatID, VipIR, XplorIR
+- Resource Type: Videos
+Discover 908 Devices’ suite of handheld chemical analyzers for fast, accurate identification of unknown solids, liquids, gases, and aerosols.
+
+
+- Published: 2025-09-23
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/enhanced-solid-liquid-mixture-analysis-performance/
+- Applications: Fire and Hazmat
+- Products: ProtectIR
+- Resource Type: Application Notes & Snapshots
+ProtectIR sets a new standard in mixture analysis, enabling hazmat, border security, and forensic teams to confidently identify more components in complex solid and liquid samples.
+
+
+- Published: 2025-09-15
+- Modified: 2025-09-16
+- URL: https://908devices.com/resource/xplorir-eliminates-the-gap-in-gas-identification/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+XplorIR delivers rapid, accurate gas identification for hazmat response, helping teams detect, identify, and quantify over 5,600 hazardous gases in the field.
+
+
+- Published: 2025-09-10
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/xplorir-case-study-urban-hazmat-incident/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Case Studies
+Hazmat responders used XplorIR to rapidly identify tetrachloroethylene during an urban incident, enabling faster, safer chemical response.
+
+
+- Published: 2025-09-04
+- Modified: 2025-10-29
+- URL: https://908devices.com/resource/in-their-words-how-one-corrections-team-stops-drugs-at-the-gate/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+This webinar features corrections professionals sharing real-world strategies for contraband detection, highlighting tools like the MX908, K9s, and advanced mail screening protocols.
+
+
+- Published: 2025-07-24
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/hazmat-detection-and-the-hidden-threats-we-face/
+- Applications: Fire and Hazmat
+- Products: InterceptIR, MX908, ProtectIR, ThreatID, XplorIR
+- Resource Type: Podcasts
+Dr. Mark Norman joins The Firefighters Podcast to talk about the evolution of hazmat detection – from lab tech to tools you can take to the field.
+
+
+> 908 Devices is advancing CBRN defense with portable, high-precision detection tools like the MX908—trusted globally for rapid field identification, real-time intelligence, and mission-ready support.
+
+- Published: 2025-07-03
+- Modified: 2025-07-03
+- URL: https://908devices.com/resource/the-procurement-pendulum-swings-back/
+- Applications: Fire and Hazmat
+- Products: MX908, ProtectIR, ThreatID, XplorIR
+- Resource Type: Published Articles
+908 Devices is advancing CBRN defense with portable, high-precision detection tools like the MX908—trusted globally for rapid field identification, real-time intelligence, and mission-ready support.
+
+
+- Published: 2025-06-13
+- Modified: 2025-08-14
+- URL: https://908devices.com/resource/drug-detection-at-the-border-how-vipir-and-mx908-work-together-to-elevate-customs-border-screening/
+- Applications: Customs and Borders
+- Products: MX908, VipIR
+- Resource Type: Application Notes & Snapshots
+Discover how VipIR and MX908 work together to elevate border drug detection with rapid screening and advanced chemical identification—helping customs agents triage faster, identify threats confidently, and protect ports of entry without slowing commerce.
+
+
+- Published: 2025-06-13
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/vipir-specification-sheet-customs-borders/
+- Applications: Customs and Borders
+- Products: VipIR
+- Resource Type: Specification Sheets
+Learn about the features and performance of VipIR, a portable 3-in-1 device that utilizes Raman, FTIR and SSP to identify thousands of chemicals.
+
+
+- Published: 2025-06-13
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/vipir-specification-sheet-hazardous-materials-cbrn/
+- Applications: Fire and Hazmat
+- Products: VipIR
+- Resource Type: Specification Sheets
+Learn about the features and performance of VipIR, a portable 3-in-1 device that utilizes Raman, FTIR and SSP to identify thousands of hazardous materials and CBRN chemicals.
+
+
+- Published: 2025-06-10
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/trace-chemical-detection-for-customs-inspection/
+- Applications: Customs and Borders
+- Products: MX908
+- Resource Type: Application Notes & Snapshots
+Enhance border security with fast, accurate chemical detection for customs inspections. Discover how MX908 handheld mass spectrometer streamlines trace drug identification and boosts operational efficiency at ports of entry.
+
+
+- Published: 2025-05-15
+- Modified: 2025-10-28
+- URL: https://908devices.com/resource/hazmat-response-reinvented-how-dronedog-and-interceptir-are-changing-the-game/
+- Applications: Area Monitoring, Fire and Hazmat
+- Products: InterceptIR
+- Resource Type: Webinars On Demand
+Explore how cutting-edge tools like DroneDog and InterceptIR are transforming remote hazmat response.
+
+
+- Published: 2025-04-07
+- Modified: 2025-11-17
+- URL: https://908devices.com/resource/chilean-border-agents-foil-multiple-narcotics-smuggling-attempts-with-mx908/
+- Applications: Customs and Borders, Narcotics
+- Products: MX908
+- Resource Type: Case Studies
+Explore how advanced detection technology is helping stop drug smuggling at airports through real-world case studies from Chilean customs.
+
+
+- Published: 2025-04-01
+- Modified: 2026-03-25
+- URL: https://908devices.com/resource/protectir-new-condensed-phase-mixture-analysis/
+- Applications: Fire and Hazmat, Narcotics
+- Products: ProtectIR
+- Resource Type: Brochures & Flyers
+ProtectIR new condensed phase mixture analysis includes true positive and false positive rates and success rates of single or multi-component mixtures.
+
+
+- Published: 2025-03-20
+- Modified: 2026-02-13
+- URL: https://908devices.com/resource/the-emerging-threat-of-nitazenes-in-the-synthetic-opioid-crisis/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: White Papers
+Discover how nitazenes—synthetic opioids up to 40x stronger than fentanyl—are fueling a new wave in the overdose crisis. Learn about detection challenges, real-world case studies, and advanced tools like the MX908 in this essential whitepaper.
+
+
+- Published: 2025-03-20
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/unlocking-public-safety-grants-and-funding-in-2025/
+- Applications: Fire and Hazmat, Narcotics
+- Products: MX908, XplorIR
+- Resource Type: Webinars On Demand
+This webinar will equip you with the tools to maximize funding and navigate the evolving grant process.
+
+
+- Published: 2025-02-21
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/the-current-state-of-the-opioid-crisis-other-emerging-threats/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Published Articles
+This article examines the evolving opioid crisis, highlighting the need for advanced detection technologies and coordinated prevention efforts to combat synthetic opioid crisis.
+
+
+- Published: 2025-01-31
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/unmasking-nitazenes-novel-substances-joining-fentanyl-in-the-synthetic-opioid-landscape/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+This webinar explores the emerging threat of nitazenes, their parallels to the fentanyl crisis, and how the MX908 enhances detection and analysis for law enforcement, forensic professionals, and medical examiners.
+
+
+- Published: 2024-12-12
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/simplifying-everyday-hazmat-calls-with-advanced-technology/
+- Applications: Fire and Hazmat
+- Products: MX908, XplorIR
+- Resource Type: Webinars On Demand
+From routine calls such as carbon monoxide and odor detection, to more complex incidents involving multiple chemical substances learn how hazmat response tools like XplorIR and MX908 allow responders to work smarter.
+
+
+- Published: 2024-11-15
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/improving-substance-detection-and-identification-in-correctional-facilities/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+Watch this webinar to learn more about MX908 for Corrections Screening and pairing with RaySecur's MailSecur system for robust narcotics identification in correctional facilities.
+
+
+- Published: 2024-10-23
+- Modified: 2026-01-22
+- URL: https://908devices.com/resource/interview-rsk-media-interviews-kevin-j-knopp/
+- Applications: Narcotics
+- Products: InterceptIR, MX908, ProtectIR, ThreatID, XplorIR
+- Resource Type: Videos
+RSK Media, Rizwan Chaudhrey, visited Boston and met with 908 Devices CEO, Kevin J. Knopp. Topics included key business drivers, the RedWave Technology acquisition, and the future of life sciences.
+
+
+> Explore how 908 Devices' acquisition of RedWave Technology is revolutionizing chemical detection with advanced mass spectrometry and FTIR solutions, expanding capabilities for public safety and military applications.
+
+- Published: 2024-09-09
+- Modified: 2025-05-22
+- URL: https://908devices.com/resource/catching-a-redwave/
+- Applications: Fire and Hazmat
+- Products: MX908, ProtectIR, ThreatID, XplorIR
+- Resource Type: Published Articles
+Explore how 908 Devices' acquisition of RedWave Technology is revolutionizing chemical detection with advanced mass spectrometry and FTIR solutions, expanding capabilities for public safety and military applications.
+
+
+- Published: 2024-08-22
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/empowering-field-operations-integrated-chemical-analysis/
+- Applications: Fire and Hazmat
+- Products: MX908, ProtectIR, ThreatID, XplorIR
+- Resource Type: Webinars On Demand
+This webinar is designed for emergency response teams, defense personnel, and security professionals needing quick, accurate integrated chemical analysis.
+
+
+- Published: 2024-08-19
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/trace-identification-of-nitazenes/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Brochures & Flyers
+This mission brief covers the advantages of using MX908 for the trace identification of nitazenes.
+
+
+- Published: 2024-08-14
+- Modified: 2025-09-08
+- URL: https://908devices.com/resource/xplorir-quantification/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn about XplorIR quantification package, which allows users to measure the concentration of a hazardous gas or vapor at part-per-million (ppm) levels.
+
+
+- Published: 2024-06-18
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/xplorir-quantification-package/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Brochures & Flyers
+The XplorIR can now simultaneously identify and quantify hazardous gases and vapors with this new package pairing.
+
+
+- Published: 2024-06-14
+- Modified: 2026-08-10
+- URL: https://908devices.com/resource/threatid-specification-sheet/
+- Applications: Defense, Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Specification Sheets
+Learn about the features and performance of ThreatID, a portable FTIR device designed for analyzing solids, liquids, gases, and complex mixtures.
+
+
+- Published: 2024-06-14
+- Modified: 2026-08-17
+- URL: https://908devices.com/resource/interceptir-specification-sheet/
+- Applications: Area Monitoring, Defense, Fire and Hazmat
+- Products: InterceptIR
+- Resource Type: Specification Sheets
+Learn about the features and performance of InterceptIR, rapid gas identifier for unmanned systems.
+
+
+- Published: 2024-06-14
+- Modified: 2026-08-10
+- URL: https://908devices.com/resource/xplorir-specification-sheet/
+- Applications: Defense, Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Specification Sheets
+Learn about the specifications for XplorIR, enabling continuous detection and identification of gas threats, even within complex mixtures.
+
+
+- Published: 2024-06-14
+- Modified: 2026-06-12
+- URL: https://908devices.com/resource/protectir-specification-sheet/
+- Applications: Fire and Hazmat
+- Products: ProtectIR
+- Resource Type: Specification Sheets
+Learn about the features and performance of ProtectIR, a portable FTIR device designed for analyzing solid and liquid threats.
+
+
+> Learn about the integration of XplorIR's gas identification capabilities with the common air monitoring tool of the LEL sensor.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/xplorir-and-lel-sensors-for-hazmat-response/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn about the integration of XplorIR's gas identification capabilities with the common air monitoring tool of the LEL sensor.
+
+
+- Published: 2024-06-14
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/are-colorimetric-tubes-obsolete-hazmat/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn how the XplorIR revolutionizes gas detection by eliminating the drawbacks of traditional colorimetric tubes.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/xplorirs-gas-mixtures-analysis/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Webinars On Demand
+Dr. John Seelenbinder discusses with the Hazmat Guys how the XplorIR now identifies up to 6 gas components in-real time within complex mixtures.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/xplorir-adaptive-atmospheric-correction/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Webinars On Demand
+Dr. John Seelenbinder discusses with the Hazmat Guys how the XplorIR achieves accurate gas sample identification, even with humidity and carbon dioxide interference.
+
+
+> The XplorIR can accurately identify toxic gases at low concentrations, providing critical support for emergency responders in hazardous material detection.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/infrared-gas-identification-xplorir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Tech Notes
+Learn how XplorIR achieves accurate gas sample identification.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/uspis/
+- Applications: Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Case Studies
+Learn why USPIS chose the ThreatID for advanced screening and detection, distinguishing it from other FTIR technologies.
+
+
+> XplorIR's Limit of Identification can be determined for a given meter and chemical product under specific operational conditions.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/understanding-limit-of-identification-of-the-xplorir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Tech Notes
+XplorIR's Limit of Identification can be determined for a given meter and chemical product under specific operational conditions.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/transformative-impact-gas-phase-ftir-for-hazmat-operations/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Webinars On Demand
+Listen to a panel discuss current methods for gas detection in the hazmat/CBRNe applications.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/threatid-powder-liquid-module-demonstration/
+- Applications: Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Videos
+This video focuses on how the ThreatID powder/liquid module is capable of identifying over 23000 chemicals.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/threatid-gas-cell-module-demonstration/
+- Applications: Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Videos
+This video focuses on how the ThreatID gas cell module is capable of identifying over 5600 chemicals.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/threat-brief-xplorir-mixture-analysis/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Brochures & Flyers
+Learn how the XplorIR provides positive gas identification during an explosion at a clandestine meth lab.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/the-pivitol-role-of-ftir-in-hazmat-emergency-response/
+- Applications: Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Webinars On Demand
+This webinar discussion highlights current emerging chemical threats and the solutions that FTIR technology provides in response.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/team-leader-threat-assist-hazardous-chemical-database/
+- Applications: Fire and Hazmat
+- Products: InterceptIR, ProtectIR, ThreatID, XplorIR
+- Resource Type: Videos
+Learn about the Team Leader mobile app. View results in real-time outside the hotzone.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/responding-to-chemical-suicides/
+- Applications: Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Webinars On Demand
+Dr. Christina Baxter of Emergency Response TIPS discusses how innovative FTIR solutions are countering the threat of chemical suicides.
+
+
+- Published: 2024-06-14
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/xplorir-product-video/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Videos
+Learn about XplorIR's ability to detect and identify unknown chemical threats in seconds.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/redwave-technology-threatid-overview/
+- Applications: Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Videos
+Learn about ThreatID's multi-threat identification capabilities, even in complex chemical mixtures.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/protectir-demo/
+- Applications: Fire and Hazmat
+- Products: ProtectIR
+- Resource Type: Videos
+Learn how to confidently identify thousands of chemical threats anywhere with the portable ProtectIR.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/ondemand-webinar-pid-and-ftir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Webinars On Demand
+Listen as Lt. Brandon Gayle discusses with the Hazmat Guys the importance of knowing the identity and concentration of toxic gases.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/lithium-ion-battery-decommissioning/
+- Applications: Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Case Studies
+Learn how ThreatID identified hazardous gas components generated during a Lithium-Ion battery decommissioning.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/how-ftir-is-filling-the-gas-identification-gap/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Webinars On Demand
+Industry experts discuss how FTIR technology is used to address gas identification in hazmat/CBRNe response.
+
+
+- Published: 2024-06-14
+- Modified: 2026-08-10
+- URL: https://908devices.com/resource/ftir-for-industrial-chemicals-responding-to-emerging-threats/
+- Applications: Defense, Fire and Hazmat
+- Products: ThreatID
+- Resource Type: Webinars On Demand
+Dr. Christina Baxter, CEO of Emergency Response TIPS, discusses how FTIR technology can be deployed in industrial chemical accidents.
+
+
+- Published: 2024-06-14
+- Modified: 2025-10-21
+- URL: https://908devices.com/resource/expert-roundtable-the-gas-threat-response/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Webinars On Demand
+Learn about real-world gas threats, including chemical suicides, accidental pesticide exposures, and transportation accidents, and the pivotal role of FTIR technology.
+
+
+> Learn how the XplorIR identifies mixed chemical products and overcomes current chemical detection challenges through its ability to identify up to 6 gas components within complex mixtures.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/breaking-new-ground-gas-mixture-analysis-with-xplorir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn how the XplorIR identifies mixed chemical products and overcomes current chemical detection challenges through its ability to identify up to 6 gas components within complex mixtures.
+
+
+> Learn how XplorIR solves oxygen displacement for hazmat response and why it is deployed with gas monitors during recon entry.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/oxygen-displacement-and-xplorir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn how XplorIR identifies contaminants lower than an O2 sensor, and why it is deployed with gas monitors during recon entry.
+
+
+> Learn about PID entry methods and how continuous air monitoring with XplorIR can identify unknown gases in the hotzone.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/detect-and-identify-with-pid-and-ftir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn about PID entry methods and how continuous air monitoring with XplorIR can identify unknown gases in the hotzone.
+
+
+> Learn how XplorIR accurately identifies toxic gases that for a CO sensor would present cross sensitivity and inaccurate measurements.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/co-cross-sensitivity-and-xplorir/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn how XplorIR accurately identifies toxic gases that can give air monitors false readings or inaccurate measurements.
+
+
+> Learn how the XplorIR is a logical addition to your set of recon tools with it's real-time gas and vapor identification capabilities.
+
+- Published: 2024-06-14
+- Modified: 2025-06-11
+- URL: https://908devices.com/resource/building-your-recon-toolbox/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Application Notes & Snapshots
+Learn how the XplorIR is a logical addition to your set of recon tools.
+
+
+- Published: 2024-06-10
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/critical-gaps-in-gas-detection-methods-in-hazmat-scenarios/
+- Applications: Fire and Hazmat
+- Products: XplorIR
+- Resource Type: Webinars On Demand
+This webinar will discuss the crucial role of gas detection in hazmat management, comparing existing methods and emphasizing the advanced application of handheld FTIR devices.
+
+
+- Published: 2024-05-13
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/beyond-detection-the-imperative-for-advanced-trace-level-identification-of-synthetic-opioids/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+This webinar explores strategies for implementing MX908 for HIDTA and Counterdrug initiatives.
+
+
+- Published: 2024-05-10
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/maximizing-decon-efficiency-solutions-for-fentanyl-and-other-drugs/
+- Applications: Fire and Hazmat, Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+Watch this webinar to learn how First Line Technology and 908 Devices products work together to provide robust decon solutions.
+
+
+- Published: 2024-05-09
+- Modified: 2026-08-10
+- URL: https://908devices.com/resource/trace-drug-identification-at-the-border-3-scenarios-from-the-new-zealand-customs-service/
+- Applications: Customs and Borders, Defense, Fire and Hazmat, Narcotics
+- Products: MX908
+- Resource Type: Case Studies
+Whether using trace identification features for drug traffickers, deploying vapor capabilities to analyze threats or implementing the explosive functionality to assess risk to the public, the New Zealand Customs Service has seen tremendous benefit from 908 Devices' MX908.
+
+
+- Published: 2024-05-02
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/why-are-fentanyl-and-fake-pills-so-deadly-infographic/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Application Notes & Snapshots
+Download this infographic to increase your knowledge about fentanyl awareness and review survey results conducted by Dynata.
+
+
+- Published: 2024-04-23
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/staying-ahead-of-the-curve-navigating-emerging-drugs-for-law-enforcement/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+Learn about diverse drug classifications and why new substances, such as xylazine and medetomidine, are emerging more frequently. Stay ahead of the curve and navigate these emerging drug trends.
+
+
+- Published: 2024-04-05
+- Modified: 2025-11-17
+- URL: https://908devices.com/resource/grant-writing-strategies-for-public-safety/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+Are you seeking to enhance your department's resources or make a significant impact on the fentanyl epidemic? Watch this webinar to learn about law enforcement grant writing and applications, to aid in acquiring technologies that are used on the front lines for public safety.
+
+
+- Published: 2024-02-26
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/mx908-advantage-in-the-presence-of-cutting-agents/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: White Papers
+Read our latest whitepaper to see how MX908 performed in a study of the most common cutting agents found around the world and, when combined with Reachback analysis, improved the false positive rate from
+
+
+- Published: 2024-01-25
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/mx908-identifying-dangerous-materials-in-mail/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Case Studies
+Learn what are the commonly seized substances in everyday mail and how our MX908 is utilized as a screening tool to keep employees safe from harmful substance exposures. A simple swab of a package can reveal the contents inside.
+
+
+- Published: 2023-12-12
+- Modified: 2026-02-02
+- URL: https://908devices.com/resource/mx908-webinars-fentanyl-and-other-deadly-drug-investigations/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Webinars On Demand
+This webinar provides an overview of the rise of the opioid epidemic in the U.S.. Through the use of real-life case studies, you will learn how to safely respond and investigate the scene of an overdose.
+
+
+- Published: 2023-11-09
+- Modified: 2025-10-23
+- URL: https://908devices.com/resource/mx908-published-articles-ff-mx-pa-0004/
+- Applications: Narcotics
+- Products: MX908
+- Resource Type: Published Articles
+This article, authored by our own John Johnson, was originally published in WCO News, Issue 3/ 2023. This article introduces MX908 which enables field officers to analyze trace materials left on any items and obtain the specific name of a trace-level substance. Not only can they confirm or allay their suspicions rapidly, but they can also proceed to physical inspection with all the precautions needed.
+
+
+- Published: 2023-11-06
+- Modified: 2026-08-10
+- URL: https://908devices.com/resource/podcast-the-new-mx908-beacon-for-area-monitoring/
+- Applications: Area Monitoring, Defense, Fire and Hazmat
+- Products: MX908
+- Resource Type: Webinars On Demand
+We recently caught up with The HazMat Guys Podcast to discuss what's new from 908 Devices for area monitoring missions.
+
+
+- Published: 2023-10-30
+- Modified: 2026-04-15
+- URL: https://908devices.com/resource/identifying-a-synthetic-cannabinoid-imbedded-in-paper/
+- Applications: Correctional Facilities, Narcotics
+- Products: MX908
+- Resource Type: Case Studies
+Read our latest case study on how MX908 aids correctional staff to proactively identify drugs at nanogram levels via trace detection on difficult samples, such as drugs imbedded in paper.
+
+
+- Published: 2023-08-31
+- Modified: 2026-08-17
+- URL: https://908devices.com/resource/on-demand-webinar-responding-to-chemical-warfare-and-pharmaceutical-based-agents/
+- Applications: Area Monitoring, Defense, Fire and Hazmat
+- Products: MX908
+- Resource Type: Webinars On Demand
+A must watch for CBRN first responders. Receive the latest info on dangerous chemical threats, chemical warfare, and pharmaceutical based agents.
+
+
+- Published: 2023-07-25
+- Modified: 2026-08-11
+- URL: https://908devices.com/resource/area-monitoring-for-chemical-warfare-and-pharmaceutical-based-agents/
+- Applications: Area Monitoring, Defense, Fire and Hazmat
+- Products: MX908
+- Resource Type: White Papers
+Learn about area monitoring and how MX908 Beacon identifies vapor and aerosol threats, including CWAs and PBAs, in real-time remotely.
+
+
+- Published: 2023-07-25
+- Modified: 2026-08-10
+- URL: https://908devices.com/resource/mx908-beacon-spec-sheet/
+- Applications: Area Monitoring, Defense, Fire and Hazmat
+- Products: MX908
+- Resource Type: Specification Sheets
+MX908 Beacon remote area monitoring for identification of aerosol and vapor CWA's and PBA's.
+
+
+

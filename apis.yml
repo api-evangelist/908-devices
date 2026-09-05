@@ -1,17 +1,38 @@
 aid: 908-devices
 name: 908 Devices
-description: '908 Devices is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: >-
+  908 Devices Inc. (Nasdaq: MASS) is a Burlington, Massachusetts maker of purpose-built handheld
+  chemical analysis devices for public safety, defense, customs and forensic teams. Its flagship
+  MX908 is a handheld high-pressure mass spectrometer that identifies narcotics, explosives and
+  hazardous materials at trace level in about 30 seconds; the portfolio also includes the VipIR,
+  XplorIR, ProtectIR and InterceptIR FTIR/Raman analyzers and, since the May 2026 acquisition of
+  NIRLAB AG of Lausanne, a cloud-connected NIR spectroscopy platform. As of this profile the
+  company publishes no public developer program, API reference, OpenAPI or SDK: MX908 integration
+  ships as an RS232 serial port, field data moves over Bluetooth via the MX908 Remote and Team
+  Leader mobile apps, and the NIRLAB cloud console at app.nirlab.com is login-gated. NIRLAB's
+  FIELDLAB is marketed to app developers, but its reference sits behind a contact-sales form.
 url: https://raw.githubusercontent.com/api-evangelist/908-devices/refs/heads/main/apis.yml
+image: https://908devices.com/wp-content/uploads/2022/08/908Devices_Logo_Primary.jpg
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+x-tier: profiled
+x-tier-reason: 'enrichment pass 2026-09-05: full STEP 0b contract discovery run across six hosts, no public API contract found'
 specificationVersion: '0.20'
 created: '2026-09-05'
 modified: '2026-09-05'
+position: Producing
 tags:
 - Company
+- Chemical Analysis
+- Mass Spectrometry
+- Spectroscopy
+- Scientific Instruments
+- Public Safety
+- Defense
+- Narcotics Detection
+- Hazmat
+- Hardware
+- Life Sciences
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -20,4 +41,77 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
+  url: https://908devices.com/
+- type: Blog
+  url: https://908devices.com/blog/
+- type: BlogRSS
+  url: https://908devices.com/blog/feed/
+- type: Newsroom
+  url: https://908devices.com/news/
+- type: x-NewsRSS
+  url: https://908devices.com/news/feed/
+- type: About
+  url: https://908devices.com/about/
+- type: Careers
+  url: https://908devices.com/careers/
+- type: Support
+  url: https://908devices.com/contact/
+- type: TermsOfService
+  url: https://908devices.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://908devices.com/privacy-policy/
+- type: InvestorRelations
+  url: https://ir.908devices.com/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/908-devices
+- type: YouTube
+  url: https://www.youtube.com/@908devices
+- type: Twitter
+  url: https://x.com/908devices
+- type: LLMsTxt
+  url: llms/908-devices-llms.txt
+- type: ChangeLog
+  url: changelog/908-devices-changelog.yml
+- type: Plans
+  url: plans/908-devices-plans-pricing.yml
+- type: DomainSecurity
+  url: security/908-devices-domain-security.yml
+x-secondary-market-listing:
+  venue: Forge Global
   url: https://forgeglobal.com/908-devices_stock/
+  note: >-
+    Carried by the harvest as the seed Website pointer. It is a secondary-market venue listing,
+    not the company site, and was replaced by https://908devices.com/ in this pass.
+x-subsidiaries:
+  nirlab-ag:
+    name: NIRLAB AG
+    website: https://www.nirlab.com/
+    acquired: '2026-05-06'
+    source: https://908devices.com/news/908-devices-acquires-nirlab-ag-expanding-its-narcotics-detection-portfolio/
+x-enrichment:
+  date: '2026-09-05'
+  status: minimal
+  artifacts_added: 6
+  pass: local-v3
+x-coverage:
+  state: gated
+  reason: sales-gate
+  detail: >-
+    FIELDLAB — the one developer-facing product in the 908 Devices portfolio, marketed at
+    "app developers and chemists" to build custom mobile NIR spectroscopy applications on the
+    NIRLAB platform 908 Devices acquired in May 2026 — publishes no reference, endpoint or spec:
+    the page's only call to action is a contact-sales form, the NIRLAB cloud console at
+    app.nirlab.com redirects straight to a login, and on the core instrument line the published
+    integration mechanism is an RS232 serial port rather than a network API.
+  evidence:
+  - url: https://www.nirlab.com/fieldlab/
+    status: 200
+  - url: https://app.nirlab.com/
+    status: 200
+  - url: https://908devices.com/openapi.json
+    status: 404
+  - url: https://908devices.com/.well-known/api-catalog
+    status: 404
+  - url: https://908devices.com/news/908-devices-announces-mx908-integration-capabilities/
+    status: 200
+  checked: '2026-09-05'
