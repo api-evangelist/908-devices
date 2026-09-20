@@ -8,12 +8,8 @@
     {
       "source": "https://908devices.com/",
       "error": "HTTPError"
-    },
-    {
-      "source": "https://908devices.com/blog/feed/",
-      "error": "HTTPError"
     }
   ],
   "post_count": 12,
-  "fetched": "2026-09-13T13:00:00Z"
+  "fetched": "2026-09-19T20:17:39Z"
 }
