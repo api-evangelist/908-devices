@@ -3,13 +3,19 @@
   "feeds": [
     {
       "source": "https://908devices.com/blog/",
-      "error": "HTTPError"
+      "feed_url": "https://908devices.com/blog/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     },
     {
-      "source": "https://908devices.com/",
-      "error": "HTTPError"
+      "source": "https://908devices.com/blog/feed/",
+      "feed_url": "https://908devices.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
   "post_count": 12,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
