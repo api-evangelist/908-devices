@@ -3,10 +3,10 @@
   "feeds": [
     {
       "source": "https://908devices.com/blog/",
-      "feed_url": "https://908devices.com/blog/",
+      "feed_url": "https://908devices.com/blog/feed/",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "discovered"
     },
     {
       "source": "https://908devices.com/blog/feed/",
@@ -17,5 +17,5 @@
     }
   ],
   "post_count": 12,
-  "fetched": "2026-10-10T13:15:00Z"
+  "fetched": "2026-10-17T14:53:57Z"
 }
